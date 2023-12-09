@@ -6,6 +6,7 @@
     <meta name="referrer" content="no-referrer"/>
 
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet"/>
     <link rel="stylesheet" href="css/main.css"/>
 
@@ -15,11 +16,6 @@
 <header class="nav__bar">
     <div class="nav__content">
         <a class="logo active" href="index.html">2023 U.S Obesity Map</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navigation">
-            <span class="navbar-toggler-icon">
-            </span>
-        </button>
         <nav class="nav" id="myTopnav">
             <ul class="nav__list">
                 <li class="nav__item">
@@ -40,7 +36,8 @@
         <div id="tooltip" class="tooltip"></div>
     </div>
     <div id="side-panel">
-        <h3>Deaths by State</h3>
+        <!-- Change "Deaths by State" to "State Statistics" -->
+        <h3>State Statistics</h3>
         <table>
             <tr>
                 <th>State <i id="name-button" class="fa fa-fw fa-sort"></i></th>
@@ -54,4 +51,3 @@
 <script src="js/main.js"></script>
 </body>
 </html>
-

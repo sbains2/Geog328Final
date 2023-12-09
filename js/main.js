@@ -26,13 +26,14 @@ async function obese_data() {
             'fill-color': [
                 'step',
                 ['get', 'Obesity'],
-                '#888888',
-                10, '#FED976',
-                20, '#FEB24C',
-                24, '#FD8D3C',
-                28, '#FC4E2A',
-                32, '#E31A1C',
-                36, '#800026'
+                '#C1FFC1', // Lightest Green
+                10, '#98FB98',
+                20, '#8FBC8F',
+                24, '#6B8E23',
+                28, '#4CAF50',
+                32, '#3CB371',
+                36, '#2E8B57',  // Darkest Green
+                40, '#2E8B57'   // Darkest Green
             ],
             'fill-opacity': 0.7
         }
@@ -48,13 +49,13 @@ async function obese_data() {
         '40+'
     ];
     const colors = [
-        '#888888',
-        '#FED97670',
-        '#FEB24C70',
-        '#FD8D3C70',
-        '#FC4E2A70',
-        '#E31A1C70',
-        '#80002670'
+        '#C1FFC1',
+        '#98FB98',
+        '#8FBC8F',
+        '#6B8E23',
+        '#4CAF50',
+        '#3CB371',
+        '#2E8B57'
     ];
 
     const legend = document.getElementById('legend');
@@ -79,7 +80,7 @@ async function obese_data() {
         const obesityRate = e.features[0].properties.Obesity;
 
         const tooltip = document.getElementById('tooltip');
-        tooltip.innerHTML = `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> rate per 10k people</em></p>`;
+        tooltip.innerHTML = `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`;
         tooltip.style.visibility = 'visible';
         tooltip.style.left = `${e.point.x}px`;
         tooltip.style.top = `${e.point.y}px`;
@@ -95,7 +96,7 @@ async function obese_data() {
         const obesityRate = e.features[0].properties.Obesity;
 
         document.getElementById('text-description').innerHTML =
-            `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> rate per 10k people</em></p>`;
+            `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`;
     });
 
     map.on('mouseleave', 'state_data_layer', () => {
@@ -109,12 +110,13 @@ async function obese_data() {
 
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
-            .setHTML(`<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> rate per 10k people</em></p>`)
+            .setHTML(`<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`)
             .addTo(map);
     });
 }
 
 obese_data();
+
 
 
 
