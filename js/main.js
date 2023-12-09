@@ -28,9 +28,9 @@ async function obese_data() {
                 ['get', 'Obesity'],
                 '#C1FFC1', // Lightest Green
                 10, '#98FB98',
-                20, '#8FBC8F',
-                24, '#6B8E23',
-                28, '#4CAF50',
+                20, '#8FBC8F', // Darker Green than 24
+                24, '#6B8E23', // Darker Green than 20
+                28, '#4CAF50', // Darker Green than 32
                 32, '#3CB371',
                 36, '#2E8B57',  // Darkest Green
                 40, '#2E8B57'   // Darkest Green
@@ -51,9 +51,9 @@ async function obese_data() {
     const colors = [
         '#C1FFC198',
         '#98FB9898',
-        '#8FBC8F98',
-        '#6B8E2398',
-        '#4CAF5098',
+        '#8FBC8F70', // Darker Green than 24
+        '#6B8E2370', // Darker Green than 20
+        '#4CAF5070', // Darker Green than 32
         '#3CB37198',
         '#2E8B5798'
     ];
@@ -116,6 +116,7 @@ async function obese_data() {
 }
 
 obese_data();
+
 
 
 
