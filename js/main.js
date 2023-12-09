@@ -9,9 +9,113 @@ const map = new mapboxgl.Map({
 
 map.addControl(new mapboxgl.NavigationControl(), 'top-left');
 
+
+let cause_data;
+
+async function state_cause(){
+    const response = await fetch("assets/causes_of_death.json");
+    cause_data = await response.json();
+    showLineChart("United States");
+}
+state_cause()
+
+function showLineChart(stateName) {
+    let xData = [];
+    let yData_A = [];
+    let yData_B = [];
+    let yData_C = [];
+    let yData_D = [];
+    let i = 0;
+
+
+    for(let key in cause_data[stateName]){
+        xData[i] = cause_data[stateName][key]['YEAR'];
+        yData_A[i] = cause_data[stateName][key]['TOTAL_DEATHS'];
+        yData_B[i] = cause_data[stateName][key]['TOTAL_CANCER'];
+        yData_C[i] = cause_data[stateName][key]['TOTAL_HEART'];
+        yData_D[i] = cause_data[stateName][key]['TOTAL_STROKE'];
+        i++;
+      }
+
+    const ctx = document.getElementById('line-chart').getContext('2d');
+    if (window.myLineChart) {
+        // Destroy the existing chart
+        window.myLineChart.destroy();
+    }
+
+    window.myLineChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: xData,
+            datasets: [
+                {
+                    label: 'Total Deaths',
+                    data: yData_A,
+                    borderColor: 'rgba(207, 8, 8, 0.7)',
+                    backgroundColor: 'rgba(207, 8, 8, 0.5)',
+                    borderWidth: 1.5,
+                },
+                {
+                    label: 'Total Cancer',
+                    data: yData_B,
+                    borderColor: 'rgba(8, 207, 135, 1)',
+                    backgroundColor: 'rgba(8, 207, 135, 0.5)',
+                    borderWidth: 1.5,
+                },
+                {
+                    label: 'Total Heart',
+                    data: yData_C,
+                    borderColor: 'rgba(238, 146, 0, 1)',
+                    backgroundColor: 'rgba(238, 146, 0, 0.5)',
+                    borderWidth: 1.5,
+                },
+                {
+                    label: 'Total Stroke',
+                    data: yData_D,
+                    borderColor: 'rgba(238, 146, 0, 1)',
+                    backgroundColor: 'rgba(238, 146, 0, 0.5)',
+                    borderWidth: 1.5,
+                },
+            ],
+        },
+        options: {
+            responsive: true,
+            interaction: {
+                mode: 'index',
+                intersect: false,
+            },
+            scales: {
+                x: [{
+                    title: {
+                        display: true,
+                        text: 'Year',
+                        font: {
+                            size: 12,
+                        },
+                    },
+                }],
+                y: {
+                    min: 0,
+                },
+            },
+            stacked: false,
+            plugins: {
+                title: {
+                    display: true,
+                    text: stateName + ' Year',
+                    font: {
+                        size: 18,
+                    },
+                },
+            },
+            legend: { display: true },
+        },
+    });
+}
+let nationalFeature;
 async function obese_data() {
-    let response = await fetch("assets/National_Obesity_By_State.geojson");
-    let state_data = await response.json();
+    let respond = await fetch("assets/National_Obesity_By_State.geojson");
+    let state_data = await respond.json();
 
     map.addSource('state_data', {
         type: 'geojson',
@@ -73,6 +177,8 @@ async function obese_data() {
         item.appendChild(key);
         item.appendChild(value);
         legend.appendChild(item);
+
+        
     });
 
     map.on('mousemove', 'state_data_layer', (e) => {
@@ -113,9 +219,139 @@ async function obese_data() {
             .setHTML(`<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`)
             .addTo(map);
     });
+
+    let hoveredPolygonId = null;
+    map.on('mousemove', 'state_data_layer', (e) => {
+        if (e.features.length > 0) {
+            if (hoveredPolygonId !== null) {
+                map.setFeatureState(
+                    { source: 'state_data', id: hoveredPolygonId },
+                    { hover: false }
+                );
+            }
+            hoveredPolygonId = e.features[0].id;
+            map.setFeatureState(
+                { source: 'state_data', id: hoveredPolygonId },
+                { hover: true }
+            );
+        }
+    });
+    
+    // When the mouse leaves the state-fill layer, update the feature state of the
+    // previously hovered feature.
+    map.on('mouseleave', 'state_data_layer', () => {
+        if (hoveredPolygonId !== null) {
+            map.setFeatureState(
+                { source: 'state_data', id: hoveredPolygonId },
+                { hover: false }
+            );
+        }
+        hoveredPolygonId = null;
+    });
+
+    let polygonID = null;
+
+    map.on('click', ({ point }) => {
+        const state = map.queryRenderedFeatures(point, {
+            layers: ['state_data_layer']
+        });
+    
+        if (state.length) {
+            // If a state is clicked, show information for that state
+            document.getElementById('text-description').innerHTML = `<h3>${state[0].properties.NAME}</h3>`;
+            document.getElementById('text-description').innerHTML += `<p><strong><em>${state[0].properties.Obesity}</em></strong></p>`;
+            showLineChart(state[0].properties.NAME);
+    
+            if (polygonID) {
+                map.removeFeatureState({
+                    source: "state_data",
+                    id: polygonID
+                });
+            }
+    
+            polygonID = state[0].id;
+    
+            map.setFeatureState({
+                source: 'state_data',
+                id: polygonID,
+            }, {
+                clicked: true
+            });
+        } else {
+            document.getElementById('text-description').innerHTML = `<h3>${nationalFeature.properties.STATE}</h3>`;
+            document.getElementById('text-description').innerHTML += `<p><strong><em>${nationalFeature.properties.Obesity}</em></strong></p>`;
+            showLineChart('United States');
+    
+            if (polygonID) {
+                map.setFeatureState({
+                    source: 'state_data',
+                    id: polygonID,
+                }, {
+                    clicked: false
+                });
+            }
+        }
+    });
+    
+    let table = document.getElementsByTagName("table")[0];
+    let row, cell1, cell2;
+    for (let i = 0; i < state_data.features.length-1; i++) {
+        row = table.insertRow(-1);
+        cell1 = row.insertCell(0);
+        cell2 = row.insertCell(1);
+        cell1.innerHTML = state_data.features[i].properties.NAME;
+        cell2.innerHTML = state_data.features[i].properties.Obesity;
+    }
+  
+    let clicked = [false, false];
+    document.getElementById('state-button').addEventListener('click', function(){
+        sortToggle(clicked, 0);
+    });
+    document.getElementById('obesity-button').addEventListener('click', function(){
+        sortToggle(clicked, 1);
+    });
 }
 
 obese_data();
+
+function openNav() {
+    document.getElementById("side-container").style.display = "block";
+    document.getElementById("openbtn").style.display = "none";
+}
+
+function closeNav() {
+    document.getElementById("side-container").style.display = "none";
+    document.getElementById("openbtn").style.display = "block";
+}
+
+function openPopup(n) {
+    if (n == 1) {
+        if (document.getElementById("description-popup").style.display == "block") {
+            closePopup(1);
+        } else {
+        closePopup(2);
+        document.getElementById("description-popup").style.display = "block";
+        }
+    }
+    else if (n==2) {
+        if (document.getElementById("acknowledge-popup").style.display == "block") {
+            closePopup(2);
+        } else {
+            closePopup(1);
+            document.getElementById("acknowledge-popup").style.display = "block";
+        }
+    }
+}
+
+function closePopup(n) {
+    if (n==1) {
+        document.getElementById("description-popup").style.display = "none";
+    }
+    else if (n==2) {
+        document.getElementById("acknowledge-popup").style.display = "none";
+    }
+}
+
 
 
 

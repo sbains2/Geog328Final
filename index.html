@@ -32,20 +32,32 @@
         <a href="javascript:void(0)" id="openbtn">
             <i class="fa-solid fa-xmark"></i>
         </a>
-        <!-- Tooltip Container -->
-        <div id="tooltip" class="tooltip"></div>
     </div>
+    <div id = "side-container">
+        <a href= 'javascript:void(0)' id="closebtn" onclick="closeNav()">
+            <i class = 'fa-solid fa-xmark'></i>
+        </a>
+        <div id='features'>
+            <h2><b>Obesity Cases</b></h2>
+            <div id='text-description'>
+                <p>Click on a state!</p>
+            </div>
+        </div>
+    <div id ="chart-container">
+        <canvas id="line-chart" width="400" height="200"></canvas>
+    </div>
+    <!-- Tooltip Container -->
+    <div id="tooltip" class="tooltip"></div>
     <div id="side-panel">
         <!-- Change "Deaths by State" to "State Statistics" -->
         <h3>State Statistics</h3>
         <table>
             <tr>
-                <th>State <i id="name-button" class="fa fa-fw fa-sort"></i></th>
-                <th>Heart Disease <i id="heart-button" class="fa fa-fw fa-sort"></i></th>
-                <th>Cancer <i id="cancer-button" class="fa fa-fw fa-sort"></i></th>
-                <th>Diabetes <i id="diabetes-button" class="fa fa-fw fa-sort"></i></th>
+                <th>State <i id="state-button" class="fa fa-fw fa-sort"></i></th>
+                <th>Obesity<i id="obesity-button" class="fa fa-fw fa-sort"></i></th>
             </tr>
         </table>
+    </div>
     </div>
 </main>
 <script src="js/main.js"></script>
