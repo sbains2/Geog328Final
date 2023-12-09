@@ -1,0 +1,3018 @@
+{
+    "Alabama": [
+      {
+        "YEAR": 2017,
+        "TOTAL_DEATHS": 53238,
+        "TOTAL_CANCER": 10410,
+        "TOTAL_HEART": 13110,
+        "TOTAL_STROKE": 2931
+      },
+      {
+        "YEAR": 2016,
+        "TOTAL_DEATHS": 52466,
+        "TOTAL_CANCER": 10419,
+        "TOTAL_HEART": 12832,
+        "TOTAL_STROKE": 2967
+      },
+      {
+        "YEAR": 2015,
+        "TOTAL_DEATHS": 51909,
+        "TOTAL_CANCER": 10354,
+        "TOTAL_HEART": 12981,
+        "TOTAL_STROKE": 2937
+      },
+      {
+        "YEAR": 2014,
+        "TOTAL_DEATHS": 50215,
+        "TOTAL_CANCER": 10286,
+        "TOTAL_HEART": 12461,
+        "TOTAL_STROKE": 2663
+      },
+      {
+        "YEAR": 2013,
+        "TOTAL_DEATHS": 50189,
+        "TOTAL_CANCER": 10328,
+        "TOTAL_HEART": 12472,
+        "TOTAL_STROKE": 2604
+      },
+      {
+        "YEAR": 2012,
+        "TOTAL_DEATHS": 49301,
+        "TOTAL_CANCER": 10276,
+        "TOTAL_HEART": 12036,
+        "TOTAL_STROKE": 2628
+      },
+      {
+        "YEAR": 2011,
+        "TOTAL_DEATHS": 48681,
+        "TOTAL_CANCER": 10233,
+        "TOTAL_HEART": 11942,
+        "TOTAL_STROKE": 2568
+      },
+      {
+        "YEAR": 2010,
+        "TOTAL_DEATHS": 48038,
+        "TOTAL_CANCER": 10196,
+        "TOTAL_HEART": 12083,
+        "TOTAL_STROKE": 2619
+      }
+    ],
+    "Alaska": [
+        {
+          "YEAR": 2017,
+          "TOTAL_DEATHS": 4411,
+          "TOTAL_CANCER": 926,
+          "TOTAL_HEART": 814,
+          "TOTAL_STROKE": 190
+        },
+        {
+          "YEAR": 2016,
+          "TOTAL_DEATHS": 4494,
+          "TOTAL_CANCER": 995,
+          "TOTAL_HEART": 831,
+          "TOTAL_STROKE": 196
+        },
+        {
+          "YEAR": 2015,
+          "TOTAL_DEATHS": 4316,
+          "TOTAL_CANCER": 978,
+          "TOTAL_HEART": 846,
+          "TOTAL_STROKE": 182
+        },
+        {
+          "YEAR": 2014,
+          "TOTAL_DEATHS": 4128,
+          "TOTAL_CANCER": 972,
+          "TOTAL_HEART": 782,
+          "TOTAL_STROKE": 157
+        },
+        {
+          "YEAR": 2013,
+          "TOTAL_DEATHS": 3997,
+          "TOTAL_CANCER": 1016,
+          "TOTAL_HEART": 706,
+          "TOTAL_STROKE": 189
+        },
+        {
+          "YEAR": 2012,
+          "TOTAL_DEATHS": 3912,
+          "TOTAL_CANCER": 925,
+          "TOTAL_HEART": 708,
+          "TOTAL_STROKE": 188
+        },
+        {
+          "YEAR": 2011,
+          "TOTAL_DEATHS": 3849,
+          "TOTAL_CANCER": 935,
+          "TOTAL_HEART": 739,
+          "TOTAL_STROKE": 168
+        },
+        {
+          "YEAR": 2010,
+          "TOTAL_DEATHS": 3728,
+          "TOTAL_CANCER": 884,
+          "TOTAL_HEART": 707,
+          "TOTAL_STROKE": 167
+        }
+    ],
+    "Arizona": [
+        {
+          "YEAR": 2017,
+          "TOTAL_DEATHS": 57758,
+          "TOTAL_CANCER": 12008,
+          "TOTAL_HEART": 12398,
+          "TOTAL_STROKE": 2681
+        },
+        {
+          "YEAR": 2016,
+          "TOTAL_DEATHS": 56645,
+          "TOTAL_CANCER": 11876,
+          "TOTAL_HEART": 11957,
+          "TOTAL_STROKE": 2556
+        },
+        {
+          "YEAR": 2015,
+          "TOTAL_DEATHS": 54299,
+          "TOTAL_CANCER": 11776,
+          "TOTAL_HEART": 11458,
+          "TOTAL_STROKE": 2522
+        },
+        {
+          "YEAR": 2014,
+          "TOTAL_DEATHS": 51538,
+          "TOTAL_CANCER": 11455,
+          "TOTAL_HEART": 10805,
+          "TOTAL_STROKE": 2235
+        },
+        {
+          "YEAR": 2013,
+          "TOTAL_DEATHS": 50534,
+          "TOTAL_CANCER": 11347,
+          "TOTAL_HEART": 10755,
+          "TOTAL_STROKE": 2162
+        },
+        {
+          "YEAR": 2012,
+          "TOTAL_DEATHS": 49549,
+          "TOTAL_CANCER": 11085,
+          "TOTAL_HEART": 10689,
+          "TOTAL_STROKE": 2164
+        },
+        {
+          "YEAR": 2011,
+          "TOTAL_DEATHS": 48381,
+          "TOTAL_CANCER": 10690,
+          "TOTAL_HEART": 10662,
+          "TOTAL_STROKE": 2148
+        },
+        {
+          "YEAR": 2010,
+          "TOTAL_DEATHS": 46762,
+          "TOTAL_CANCER": 10678,
+          "TOTAL_HEART": 9954,
+          "TOTAL_STROKE": 2138
+        }
+      ],
+      "Arkansas": [
+        {
+          "YEAR": 2017,
+          "TOTAL_DEATHS": 32588,
+          "TOTAL_CANCER": 6517,
+          "TOTAL_HEART": 8270,
+          "TOTAL_STROKE": 1612
+        },
+        {
+          "YEAR": 2016,
+          "TOTAL_DEATHS": 31756,
+          "TOTAL_CANCER": 6612,
+          "TOTAL_HEART": 8090,
+          "TOTAL_STROKE": 1643
+        },
+        {
+          "YEAR": 2015,
+          "TOTAL_DEATHS": 31617,
+          "TOTAL_CANCER": 6727,
+          "TOTAL_HEART": 7938,
+          "TOTAL_STROKE": 1653
+        },
+        {
+          "YEAR": 2014,
+          "TOTAL_DEATHS": 30467,
+          "TOTAL_CANCER": 6546,
+          "TOTAL_HEART": 7581,
+          "TOTAL_STROKE": 1583
+        },
+        {
+          "YEAR": 2013,
+          "TOTAL_DEATHS": 30437,
+          "TOTAL_CANCER": 6688,
+          "TOTAL_HEART": 7377,
+          "TOTAL_STROKE": 1637
+        },
+        {
+          "YEAR": 2012,
+          "TOTAL_DEATHS": 30117,
+          "TOTAL_CANCER": 6540,
+          "TOTAL_HEART": 7407,
+          "TOTAL_STROKE": 1664
+        },
+        {
+          "YEAR": 2011,
+          "TOTAL_DEATHS": 29653,
+          "TOTAL_CANCER": 6497,
+          "TOTAL_HEART": 7168,
+          "TOTAL_STROKE": 1692
+        },
+        {
+          "YEAR": 2010,
+          "TOTAL_DEATHS": 28916,
+          "TOTAL_CANCER": 6475,
+          "TOTAL_HEART": 7274,
+          "TOTAL_STROKE": 1741
+        }
+      ],
+      "California": [
+        {
+          "YEAR": 2017,
+          "TOTAL_DEATHS": 268189,
+          "TOTAL_CANCER": 59516,
+          "TOTAL_HEART": 62797,
+          "TOTAL_STROKE": 16355
+        },
+        {
+          "YEAR": 2016,
+          "TOTAL_DEATHS": 262240,
+          "TOTAL_CANCER": 59515,
+          "TOTAL_HEART": 61573,
+          "TOTAL_STROKE": 15680
+        },
+        {
+          "YEAR": 2015,
+          "TOTAL_DEATHS": 259206,
+          "TOTAL_CANCER": 59629,
+          "TOTAL_HEART": 61289,
+          "TOTAL_STROKE": 15065
+        },
+        {
+          "YEAR": 2014,
+          "TOTAL_DEATHS": 245929,
+          "TOTAL_CANCER": 58412,
+          "TOTAL_HEART": 58189,
+          "TOTAL_STROKE": 13731
+        },
+        {
+          "YEAR": 2013,
+          "TOTAL_DEATHS": 248359,
+          "TOTAL_CANCER": 57714,
+          "TOTAL_HEART": 60299,
+          "TOTAL_STROKE": 13698
+        },
+        {
+          "YEAR": 2012,
+          "TOTAL_DEATHS": 242554,
+          "TOTAL_CANCER": 57676,
+          "TOTAL_HEART": 59371,
+          "TOTAL_STROKE": 13542
+        },
+        {
+          "YEAR": 2011,
+          "TOTAL_DEATHS": 239942,
+          "TOTAL_CANCER": 56449,
+          "TOTAL_HEART": 59772,
+          "TOTAL_STROKE": 13503
+        },
+        {
+          "YEAR": 2010,
+          "TOTAL_DEATHS": 234012,
+          "TOTAL_CANCER": 56453,
+          "TOTAL_HEART": 58641,
+          "TOTAL_STROKE": 13662
+        }
+      ],
+        "Colorado": [
+          {
+            "YEAR": 2017,
+            "TOTAL_DEATHS": 38063,
+            "TOTAL_CANCER": 7829,
+            "TOTAL_HEART": 7060,
+            "TOTAL_STROKE": 1988
+          },
+          {
+            "YEAR": 2016,
+            "TOTAL_DEATHS": 37530,
+            "TOTAL_CANCER": 7928,
+            "TOTAL_HEART": 7277,
+            "TOTAL_STROKE": 1927
+          },
+          {
+            "YEAR": 2015,
+            "TOTAL_DEATHS": 36349,
+            "TOTAL_CANCER": 7604,
+            "TOTAL_HEART": 7009,
+            "TOTAL_STROKE": 1856
+          },
+          {
+            "YEAR": 2014,
+            "TOTAL_DEATHS": 35237,
+            "TOTAL_CANCER": 7405,
+            "TOTAL_HEART": 6900,
+            "TOTAL_STROKE": 1714
+          },
+          {
+            "YEAR": 2013,
+            "TOTAL_DEATHS": 33712,
+            "TOTAL_CANCER": 7357,
+            "TOTAL_HEART": 6456,
+            "TOTAL_STROKE": 1588
+          },
+          {
+            "YEAR": 2012,
+            "TOTAL_DEATHS": 33133,
+            "TOTAL_CANCER": 7306,
+            "TOTAL_HEART": 6311,
+            "TOTAL_STROKE": 1576
+          },
+          {
+            "YEAR": 2011,
+            "TOTAL_DEATHS": 32563,
+            "TOTAL_CANCER": 7051,
+            "TOTAL_HEART": 6177,
+            "TOTAL_STROKE": 1606
+          },
+          {
+            "YEAR": 2010,
+            "TOTAL_DEATHS": 31465,
+            "TOTAL_CANCER": 7035,
+            "TOTAL_HEART": 6038,
+            "TOTAL_STROKE": 1607
+          }
+        ],
+        "Connecticut": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 31312,
+              "TOTAL_CANCER": 6608,
+              "TOTAL_HEART": 7138,
+              "TOTAL_STROKE": 1403
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 30543,
+              "TOTAL_CANCER": 6696,
+              "TOTAL_HEART": 7051,
+              "TOTAL_STROKE": 1269
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 30535,
+              "TOTAL_CANCER": 6666,
+              "TOTAL_HEART": 7205,
+              "TOTAL_STROKE": 1388
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 29860,
+              "TOTAL_CANCER": 6621,
+              "TOTAL_HEART": 7018,
+              "TOTAL_STROKE": 1266
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 29632,
+              "TOTAL_CANCER": 6619,
+              "TOTAL_HEART": 7090,
+              "TOTAL_STROKE": 1348
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 29316,
+              "TOTAL_CANCER": 6681,
+              "TOTAL_HEART": 7282,
+              "TOTAL_STROKE": 1273
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 29526,
+              "TOTAL_CANCER": 6837,
+              "TOTAL_HEART": 7206,
+              "TOTAL_STROKE": 1315
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 28692,
+              "TOTAL_CANCER": 6954,
+              "TOTAL_HEART": 7127,
+              "TOTAL_STROKE": 1349
+            }
+          ],
+          "Delaware": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 9178,
+              "TOTAL_CANCER": 2085,
+              "TOTAL_HEART": 1990,
+              "TOTAL_STROKE": 571
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 8874,
+              "TOTAL_CANCER": 2124,
+              "TOTAL_HEART": 1974,
+              "TOTAL_STROKE": 506
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 8582,
+              "TOTAL_CANCER": 2010,
+              "TOTAL_HEART": 1940,
+              "TOTAL_STROKE": 466
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 8260,
+              "TOTAL_CANCER": 1972,
+              "TOTAL_HEART": 1921,
+              "TOTAL_STROKE": 439
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 7967,
+              "TOTAL_CANCER": 1905,
+              "TOTAL_HEART": 1861,
+              "TOTAL_STROKE": 409
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 7875,
+              "TOTAL_CANCER": 1935,
+              "TOTAL_HEART": 1790,
+              "TOTAL_STROKE": 404
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 7845,
+              "TOTAL_CANCER": 1906,
+              "TOTAL_HEART": 1809,
+              "TOTAL_STROKE": 418
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 7706,
+              "TOTAL_CANCER": 1909,
+              "TOTAL_HEART": 1776,
+              "TOTAL_STROKE": 407
+            }
+          ],
+          "District of Columbia": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 4965,
+              "TOTAL_CANCER": 1031,
+              "TOTAL_HEART": 1284,
+              "TOTAL_STROKE": 246
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 5037,
+              "TOTAL_CANCER": 1044,
+              "TOTAL_HEART": 1375,
+              "TOTAL_STROKE": 252
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 4871,
+              "TOTAL_CANCER": 1072,
+              "TOTAL_HEART": 1217,
+              "TOTAL_STROKE": 242
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 4723,
+              "TOTAL_CANCER": 1116,
+              "TOTAL_HEART": 1324,
+              "TOTAL_STROKE": 214
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 4719,
+              "TOTAL_CANCER": 1095,
+              "TOTAL_HEART": 1340,
+              "TOTAL_STROKE": 187
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 4650,
+              "TOTAL_CANCER": 1081,
+              "TOTAL_HEART": 1298,
+              "TOTAL_STROKE": 207
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 4589,
+              "TOTAL_CANCER": 1070,
+              "TOTAL_HEART": 1171,
+              "TOTAL_STROKE": 209
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 4672,
+              "TOTAL_CANCER": 1041,
+              "TOTAL_HEART": 1306,
+              "TOTAL_STROKE": 196
+            }
+          ],
+          "Florida": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 203636,
+              "TOTAL_CANCER": 45131,
+              "TOTAL_HEART": 46440,
+              "TOTAL_STROKE": 12602
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 197313,
+              "TOTAL_CANCER": 44266,
+              "TOTAL_HEART": 45659,
+              "TOTAL_STROKE": 11854
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 191737,
+              "TOTAL_CANCER": 44027,
+              "TOTAL_HEART": 45441,
+              "TOTAL_STROKE": 11433
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 185956,
+              "TOTAL_CANCER": 43212,
+              "TOTAL_HEART": 44511,
+              "TOTAL_STROKE": 9770
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 181112,
+              "TOTAL_CANCER": 42735,
+              "TOTAL_HEART": 42656,
+              "TOTAL_STROKE": 8698
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 177291,
+              "TOTAL_CANCER": 42188,
+              "TOTAL_HEART": 42125,
+              "TOTAL_STROKE": 8456
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 173976,
+              "TOTAL_CANCER": 41681,
+              "TOTAL_HEART": 40919,
+              "TOTAL_STROKE": 8411
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 173791,
+              "TOTAL_CANCER": 41467,
+              "TOTAL_HEART": 41737,
+              "TOTAL_STROKE": 8432
+            }
+          ],
+          "Georgia": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 83098,
+              "TOTAL_CANCER": 17135,
+              "TOTAL_HEART": 18389,
+              "TOTAL_STROKE": 4399
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 81428,
+              "TOTAL_CANCER": 17184,
+              "TOTAL_HEART": 18143,
+              "TOTAL_STROKE": 4349
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 79942,
+              "TOTAL_CANCER": 16945,
+              "TOTAL_HEART": 17769,
+              "TOTAL_STROKE": 4335
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 76887,
+              "TOTAL_CANCER": 16684,
+              "TOTAL_HEART": 17107,
+              "TOTAL_STROKE": 3948
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 75088,
+              "TOTAL_CANCER": 16417,
+              "TOTAL_HEART": 16550,
+              "TOTAL_STROKE": 3694
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 72847,
+              "TOTAL_CANCER": 16021,
+              "TOTAL_HEART": 15825,
+              "TOTAL_STROKE": 3636
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 71248,
+              "TOTAL_CANCER": 15602,
+              "TOTAL_HEART": 15773,
+              "TOTAL_STROKE": 3564
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 71263,
+              "TOTAL_CANCER": 15435,
+              "TOTAL_HEART": 15987,
+              "TOTAL_STROKE": 3762
+            }
+          ],
+          "Hawaii": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 10913,
+              "TOTAL_CANCER": 2401,
+              "TOTAL_HEART": 2488,
+              "TOTAL_STROKE": 764
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 11390,
+              "TOTAL_CANCER": 2456,
+              "TOTAL_HEART": 2575,
+              "TOTAL_STROKE": 735
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 11053,
+              "TOTAL_CANCER": 2462,
+              "TOTAL_HEART": 2605,
+              "TOTAL_STROKE": 332
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 10767,
+              "TOTAL_CANCER": 2493,
+              "TOTAL_HEART": 2528,
+              "TOTAL_STROKE": 313
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 10505,
+              "TOTAL_CANCER": 2332,
+              "TOTAL_HEART": 2521,
+              "TOTAL_STROKE": 279
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 10274,
+              "TOTAL_CANCER": 2284,
+              "TOTAL_HEART": 2430,
+              "TOTAL_STROKE": 312
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 9923,
+              "TOTAL_CANCER": 2278,
+              "TOTAL_HEART": 2312,
+              "TOTAL_STROKE": 318
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 9617,
+              "TOTAL_CANCER": 2266,
+              "TOTAL_HEART": 2239,
+              "TOTAL_STROKE": 296
+            }
+          ],
+          "Idaho": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 14011,
+              "TOTAL_CANCER": 3020,
+              "TOTAL_HEART": 3084,
+              "TOTAL_STROKE": 726
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 13366,
+              "TOTAL_CANCER": 2884,
+              "TOTAL_HEART": 2969,
+              "TOTAL_STROKE": 682
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 13026,
+              "TOTAL_CANCER": 2849,
+              "TOTAL_HEART": 2825,
+              "TOTAL_STROKE": 641
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 12613,
+              "TOTAL_CANCER": 2795,
+              "TOTAL_HEART": 2676,
+              "TOTAL_STROKE": 640
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 12434,
+              "TOTAL_CANCER": 2707,
+              "TOTAL_HEART": 2495,
+              "TOTAL_STROKE": 598
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 11998,
+              "TOTAL_CANCER": 2572,
+              "TOTAL_HEART": 2515,
+              "TOTAL_STROKE": 610
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 12027,
+              "TOTAL_CANCER": 2573,
+              "TOTAL_HEART": 2522,
+              "TOTAL_STROKE": 623
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 11429,
+              "TOTAL_CANCER": 2530,
+              "TOTAL_HEART": 2495,
+              "TOTAL_STROKE": 642
+            }
+          ],
+          "Illinois": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 109721,
+              "TOTAL_CANCER": 24150,
+              "TOTAL_HEART": 25394,
+              "TOTAL_STROKE": 6020
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 107020,
+              "TOTAL_CANCER": 24389,
+              "TOTAL_HEART": 25013,
+              "TOTAL_STROKE": 5658
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 106872,
+              "TOTAL_CANCER": 24713,
+              "TOTAL_HEART": 25652,
+              "TOTAL_STROKE": 5709
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 105293,
+              "TOTAL_CANCER": 24501,
+              "TOTAL_HEART": 25024,
+              "TOTAL_STROKE": 5489
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 103401,
+              "TOTAL_CANCER": 24491,
+              "TOTAL_HEART": 24839,
+              "TOTAL_STROKE": 5294
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 102433,
+              "TOTAL_CANCER": 24562,
+              "TOTAL_HEART": 24667,
+              "TOTAL_STROKE": 5337
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 101906,
+              "TOTAL_CANCER": 24007,
+              "TOTAL_HEART": 24987,
+              "TOTAL_STROKE": 5372
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 99931,
+              "TOTAL_CANCER": 24070,
+              "TOTAL_HEART": 24959,
+              "TOTAL_STROKE": 5349
+            }
+          ],
+          "Indiana": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 65597,
+              "TOTAL_CANCER": 13462,
+              "TOTAL_HEART": 14445,
+              "TOTAL_STROKE": 3150
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 63473,
+              "TOTAL_CANCER": 13424,
+              "TOTAL_HEART": 13952,
+              "TOTAL_STROKE": 3040
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 62713,
+              "TOTAL_CANCER": 13511,
+              "TOTAL_HEART": 13948,
+              "TOTAL_STROKE": 2959
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 60940,
+              "TOTAL_CANCER": 13519,
+              "TOTAL_HEART": 13764,
+              "TOTAL_STROKE": 3107
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 60716,
+              "TOTAL_CANCER": 13258,
+              "TOTAL_HEART": 13773,
+              "TOTAL_STROKE": 2996
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 59332,
+              "TOTAL_CANCER": 13368,
+              "TOTAL_HEART": 13675,
+              "TOTAL_STROKE": 3073
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 58202,
+              "TOTAL_CANCER": 13180,
+              "TOTAL_HEART": 13372,
+              "TOTAL_STROKE": 3127
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 56743,
+              "TOTAL_CANCER": 13164,
+              "TOTAL_HEART": 13388,
+              "TOTAL_STROKE": 3082
+            }
+          ],
+          "Iowa": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 29538,
+              "TOTAL_CANCER": 6449,
+              "TOTAL_HEART": 7180,
+              "TOTAL_STROKE": 1416
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 29190,
+              "TOTAL_CANCER": 6504,
+              "TOTAL_HEART": 6615,
+              "TOTAL_STROKE": 1388
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 29600,
+              "TOTAL_CANCER": 6513,
+              "TOTAL_HEART": 6813,
+              "TOTAL_STROKE": 1418
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 28948,
+              "TOTAL_CANCER": 6509,
+              "TOTAL_HEART": 6995,
+              "TOTAL_STROKE": 1409
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 29190,
+              "TOTAL_CANCER": 6504,
+              "TOTAL_HEART": 6615,
+              "TOTAL_STROKE": 1388
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 28389,
+              "TOTAL_CANCER": 6481,
+              "TOTAL_HEART": 6736,
+              "TOTAL_STROKE": 1422
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 28184,
+              "TOTAL_CANCER": 6358,
+              "TOTAL_HEART": 6880,
+              "TOTAL_STROKE": 1432
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 27745,
+              "TOTAL_CANCER": 6358,
+              "TOTAL_HEART": 7005,
+              "TOTAL_STROKE": 1537
+            }
+          ],
+          "Kansas": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 27063,
+              "TOTAL_CANCER": 5494,
+              "TOTAL_HEART": 5723,
+              "TOTAL_STROKE": 1355
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 26245,
+              "TOTAL_CANCER": 5484,
+              "TOTAL_HEART": 5672,
+              "TOTAL_STROKE": 1363
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 26664,
+              "TOTAL_CANCER": 5604,
+              "TOTAL_HEART": 5624,
+              "TOTAL_STROKE": 1364
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 25793,
+              "TOTAL_CANCER": 5587,
+              "TOTAL_HEART": 5479,
+              "TOTAL_STROKE": 1363
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 25414,
+              "TOTAL_CANCER": 5379,
+              "TOTAL_HEART": 5364,
+              "TOTAL_STROKE": 1320
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 25145,
+              "TOTAL_CANCER": 5429,
+              "TOTAL_HEART": 5366,
+              "TOTAL_STROKE": 1343
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 25116,
+              "TOTAL_CANCER": 5440,
+              "TOTAL_HEART": 5327,
+              "TOTAL_STROKE": 1338
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 24502,
+              "TOTAL_CANCER": 5377,
+              "TOTAL_HEART": 5433,
+              "TOTAL_STROKE": 1370
+            }
+          ],
+          "Kentucky": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 48212,
+              "TOTAL_CANCER": 10145,
+              "TOTAL_HEART": 10343,
+              "TOTAL_STROKE": 2050
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 47827,
+              "TOTAL_CANCER": 10363,
+              "TOTAL_HEART": 10519,
+              "TOTAL_STROKE": 2057
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 46564,
+              "TOTAL_CANCER": 10312,
+              "TOTAL_HEART": 10077,
+              "TOTAL_STROKE": 2050
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 44838,
+              "TOTAL_CANCER": 10263,
+              "TOTAL_HEART": 10013,
+              "TOTAL_STROKE": 2050
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 43759,
+              "TOTAL_CANCER": 10085,
+              "TOTAL_HEART": 9971,
+              "TOTAL_STROKE": 1990
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 43664,
+              "TOTAL_CANCER": 10012,
+              "TOTAL_HEART": 10024,
+              "TOTAL_STROKE": 2073
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 42626,
+              "TOTAL_CANCER": 9733,
+              "TOTAL_HEART": 9905,
+              "TOTAL_STROKE": 2064
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 41983,
+              "TOTAL_CANCER": 9930,
+              "TOTAL_HEART": 9662,
+              "TOTAL_STROKE": 1992
+            }
+          ],
+          "Louisiana": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 45804,
+              "TOTAL_CANCER": 9513,
+              "TOTAL_HEART": 11260,
+              "TOTAL_STROKE": 2460
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 44306,
+              "TOTAL_CANCER": 9149,
+              "TOTAL_HEART": 10943,
+              "TOTAL_STROKE": 2322
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 43716,
+              "TOTAL_CANCER": 9397,
+              "TOTAL_HEART": 10665,
+              "TOTAL_STROKE": 2280
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 43869,
+              "TOTAL_CANCER": 9455,
+              "TOTAL_HEART": 10647,
+              "TOTAL_STROKE": 2230
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 43270,
+              "TOTAL_CANCER": 9419,
+              "TOTAL_HEART": 10346,
+              "TOTAL_STROKE": 2098
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 42320,
+              "TOTAL_CANCER": 9308,
+              "TOTAL_HEART": 10074,
+              "TOTAL_STROKE": 2039
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 40890,
+              "TOTAL_CANCER": 9233,
+              "TOTAL_HEART": 9781,
+              "TOTAL_STROKE": 2071
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 40667,
+              "TOTAL_CANCER": 9203,
+              "TOTAL_HEART": 10282,
+              "TOTAL_STROKE": 1977
+            }
+          ],
+          "Maine": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 14676,
+              "TOTAL_CANCER": 3391,
+              "TOTAL_HEART": 2844,
+              "TOTAL_STROKE": 736
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 14182,
+              "TOTAL_CANCER": 3275,
+              "TOTAL_HEART": 2907,
+              "TOTAL_STROKE": 663
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 14479,
+              "TOTAL_CANCER": 3398,
+              "TOTAL_HEART": 3009,
+              "TOTAL_STROKE": 616
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 13510,
+              "TOTAL_CANCER": 3209,
+              "TOTAL_HEART": 2776,
+              "TOTAL_STROKE": 628
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 13547,
+              "TOTAL_CANCER": 3227,
+              "TOTAL_HEART": 2807,
+              "TOTAL_STROKE": 620
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 12870,
+              "TOTAL_CANCER": 3226,
+              "TOTAL_HEART": 2623,
+              "TOTAL_STROKE": 619
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 13001,
+              "TOTAL_CANCER": 3201,
+              "TOTAL_HEART": 2648,
+              "TOTAL_STROKE": 630
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 12750,
+              "TOTAL_CANCER": 3248,
+              "TOTAL_HEART": 2628,
+              "TOTAL_STROKE": 602
+            }
+          ],
+          "Maryland": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 48824,
+              "TOTAL_CANCER": 10796,
+              "TOTAL_HEART": 11653,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 47247,
+              "TOTAL_CANCER": 10911,
+              "TOTAL_HEART": 11390,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 45689,
+              "TOTAL_CANCER": 10568,
+              "TOTAL_HEART": 11481,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 45867,
+              "TOTAL_CANCER": 10759,
+              "TOTAL_HEART": 11135,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 45689,
+              "TOTAL_CANCER": 10759,
+              "TOTAL_HEART": 11135,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 44477,
+              "TOTAL_CANCER": 10525,
+              "TOTAL_HEART": 11023,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 43745,
+              "TOTAL_CANCER": 10249,
+              "TOTAL_HEART": 10557,
+              "TOTAL_STROKE": null
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 43325,
+              "TOTAL_CANCER": 10269,
+              "TOTAL_HEART": 10915,
+              "TOTAL_STROKE": null
+            }
+          ],
+          "Massachusetts": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 58803,
+              "TOTAL_CANCER": 12934,
+              "TOTAL_HEART": 12140,
+              "TOTAL_STROKE": 2367
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 56961,
+              "TOTAL_CANCER": 12717,
+              "TOTAL_HEART": 11921,
+              "TOTAL_STROKE": 2468
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 57806,
+              "TOTAL_CANCER": 12750,
+              "TOTAL_HEART": 12130,
+              "TOTAL_STROKE": 2475
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 55200,
+              "TOTAL_CANCER": 12787,
+              "TOTAL_HEART": 11817,
+              "TOTAL_STROKE": 2460
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 54567,
+              "TOTAL_CANCER": 12858,
+              "TOTAL_HEART": 12023,
+              "TOTAL_STROKE": 2354
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 53177,
+              "TOTAL_CANCER": 12864,
+              "TOTAL_HEART": 11602,
+              "TOTAL_STROKE": 2371
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 53710,
+              "TOTAL_CANCER": 12895,
+              "TOTAL_HEART": 11765,
+              "TOTAL_STROKE": 2466
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 52583,
+              "TOTAL_CANCER": 12993,
+              "TOTAL_HEART": 12043,
+              "TOTAL_STROKE": 2516
+            }
+          ],
+          "Michigan": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 97602,
+              "TOTAL_CANCER": 20671,
+              "TOTAL_HEART": 25187,
+              "TOTAL_STROKE": 5002
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 96231,
+              "TOTAL_CANCER": 20870,
+              "TOTAL_HEART": 25304,
+              "TOTAL_STROKE": 4874
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 95140,
+              "TOTAL_CANCER": 20732,
+              "TOTAL_HEART": 24794,
+              "TOTAL_STROKE": 4666
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 93914,
+              "TOTAL_CANCER": 21169,
+              "TOTAL_HEART": 24692,
+              "TOTAL_STROKE": 4596
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 92408,
+              "TOTAL_CANCER": 20367,
+              "TOTAL_HEART": 24156,
+              "TOTAL_STROKE": 4373
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 89901,
+              "TOTAL_CANCER": 20496,
+              "TOTAL_HEART": 23520,
+              "TOTAL_STROKE": 4373
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 89508,
+              "TOTAL_CANCER": 20420,
+              "TOTAL_HEART": 23358,
+              "TOTAL_STROKE": 4373
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 88021,
+              "TOTAL_CANCER": 20620,
+              "TOTAL_HEART": 23326,
+              "TOTAL_STROKE": 4373
+            }
+          ],
+          "Minnesota": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 44371,
+              "TOTAL_CANCER": 9896,
+              "TOTAL_HEART": 8230,
+              "TOTAL_STROKE": 2250
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 43078,
+              "TOTAL_CANCER": 9857,
+              "TOTAL_HEART": 7825,
+              "TOTAL_STROKE": 2197
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 42800,
+              "TOTAL_CANCER": 9925,
+              "TOTAL_HEART": 7844,
+              "TOTAL_STROKE": 2238
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 41445,
+              "TOTAL_CANCER": 9649,
+              "TOTAL_HEART": 7659,
+              "TOTAL_STROKE": 2202
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 40987,
+              "TOTAL_CANCER": 9601,
+              "TOTAL_HEART": 7714,
+              "TOTAL_STROKE": 2287
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 40016,
+              "TOTAL_CANCER": 9424,
+              "TOTAL_HEART": 7496,
+              "TOTAL_STROKE": 2124
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 39820,
+              "TOTAL_CANCER": 9489,
+              "TOTAL_HEART": 7240,
+              "TOTAL_STROKE": 2170
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 38972,
+              "TOTAL_CANCER": 9612,
+              "TOTAL_HEART": 7185,
+              "TOTAL_STROKE": 2016
+            }
+          ],
+          "Mississippi": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 32280,
+              "TOTAL_CANCER": 6526,
+              "TOTAL_HEART": 7944,
+              "TOTAL_STROKE": 1723
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 31741,
+              "TOTAL_CANCER": 6568,
+              "TOTAL_HEART": 7865,
+              "TOTAL_STROKE": 1705
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 31783,
+              "TOTAL_CANCER": 6485,
+              "TOTAL_HEART": 7969,
+              "TOTAL_STROKE": 1734
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 30557,
+              "TOTAL_CANCER": 6534,
+              "TOTAL_HEART": 7538,
+              "TOTAL_STROKE": 1584
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 30703,
+              "TOTAL_CANCER": 6527,
+              "TOTAL_HEART": 7715,
+              "TOTAL_STROKE": 1500
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 29544,
+              "TOTAL_CANCER": 6499,
+              "TOTAL_HEART": 7269,
+              "TOTAL_STROKE": 1502
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 29278,
+              "TOTAL_CANCER": 6278,
+              "TOTAL_HEART": 7335,
+              "TOTAL_STROKE": 1526
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 28965,
+              "TOTAL_CANCER": 6271,
+              "TOTAL_HEART": 7542,
+              "TOTAL_STROKE": 1520
+            }
+          ],
+          "Missouri": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 61876,
+              "TOTAL_CANCER": 12971,
+              "TOTAL_HEART": 14820,
+              "TOTAL_STROKE": 3159
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 59873,
+              "TOTAL_CANCER": 12696,
+              "TOTAL_HEART": 14579,
+              "TOTAL_STROKE": 3069
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 59871,
+              "TOTAL_CANCER": 12965,
+              "TOTAL_HEART": 14808,
+              "TOTAL_STROKE": 3037
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 58320,
+              "TOTAL_CANCER": 13067,
+              "TOTAL_HEART": 14338,
+              "TOTAL_STROKE": 3030
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 57444,
+              "TOTAL_CANCER": 12955,
+              "TOTAL_HEART": 14095,
+              "TOTAL_STROKE": 2935
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 56094,
+              "TOTAL_CANCER": 12919,
+              "TOTAL_HEART": 13742,
+              "TOTAL_STROKE": 2989
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 55848,
+              "TOTAL_CANCER": 12473,
+              "TOTAL_HEART": 13810,
+              "TOTAL_STROKE": 3001
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 55281,
+              "TOTAL_CANCER": 12626,
+              "TOTAL_HEART": 13840,
+              "TOTAL_STROKE": 3001
+            }
+          ],
+          "Montana": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 10200,
+              "TOTAL_CANCER": 2145,
+              "TOTAL_HEART": 2164,
+              "TOTAL_STROKE": 487
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 9905,
+              "TOTAL_CANCER": 2031,
+              "TOTAL_HEART": 2138,
+              "TOTAL_STROKE": 440
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 9942,
+              "TOTAL_CANCER": 2130,
+              "TOTAL_HEART": 2104,
+              "TOTAL_STROKE": 458
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 9381,
+              "TOTAL_CANCER": 2066,
+              "TOTAL_HEART": 1957,
+              "TOTAL_STROKE": 480
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 9511,
+              "TOTAL_CANCER": 1997,
+              "TOTAL_HEART": 1997,
+              "TOTAL_STROKE": 480
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 8976,
+              "TOTAL_CANCER": 1954,
+              "TOTAL_HEART": 1903,
+              "TOTAL_STROKE": 415
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 9115,
+              "TOTAL_CANCER": 2022,
+              "TOTAL_HEART": 1921,
+              "TOTAL_STROKE": 460
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 8827,
+              "TOTAL_CANCER": 1923,
+              "TOTAL_HEART": 1849,
+              "TOTAL_STROKE": 494
+            }
+          ],
+          "Nebraska": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 16878,
+              "TOTAL_CANCER": 3502,
+              "TOTAL_HEART": 3581,
+              "TOTAL_STROKE": 760
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 16217,
+              "TOTAL_CANCER": 3477,
+              "TOTAL_HEART": 3322,
+              "TOTAL_STROKE": 787
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 16740,
+              "TOTAL_CANCER": 3514,
+              "TOTAL_HEART": 3591,
+              "TOTAL_STROKE": 776
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 15978,
+              "TOTAL_CANCER": 3459,
+              "TOTAL_HEART": 3296,
+              "TOTAL_STROKE": 798
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 15754,
+              "TOTAL_CANCER": 3459,
+              "TOTAL_HEART": 3381,
+              "TOTAL_STROKE": 820
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 15659,
+              "TOTAL_CANCER": 3479,
+              "TOTAL_HEART": 3307,
+              "TOTAL_STROKE": 776
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 15476,
+              "TOTAL_CANCER": 3410,
+              "TOTAL_HEART": 3265,
+              "TOTAL_STROKE": 810
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 15171,
+              "TOTAL_CANCER": 3438,
+              "TOTAL_HEART": 3355,
+              "TOTAL_STROKE": 876
+            }
+          ],
+          "Nevada": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 24657,
+              "TOTAL_CANCER": 5283,
+              "TOTAL_HEART": 6417,
+              "TOTAL_STROKE": 1137
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 23902,
+              "TOTAL_CANCER": 5214,
+              "TOTAL_HEART": 6457,
+              "TOTAL_STROKE": 1096
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 22879,
+              "TOTAL_CANCER": 5015,
+              "TOTAL_HEART": 6114,
+              "TOTAL_STROKE": 1078
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 21793,
+              "TOTAL_CANCER": 5015,
+              "TOTAL_HEART": 5761,
+              "TOTAL_STROKE": 948
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 21468,
+              "TOTAL_CANCER": 4817,
+              "TOTAL_HEART": 5434,
+              "TOTAL_STROKE": 905
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 20785,
+              "TOTAL_CANCER": 4610,
+              "TOTAL_HEART": 5166,
+              "TOTAL_STROKE": 897
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 20343,
+              "TOTAL_CANCER": 4606,
+              "TOTAL_HEART": 5043,
+              "TOTAL_STROKE": 889
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 19623,
+              "TOTAL_CANCER": 4529,
+              "TOTAL_HEART": 4811,
+              "TOTAL_STROKE": 796
+            }
+          ],
+          "NewHampshire": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 12504,
+              "TOTAL_CANCER": 2760,
+              "TOTAL_HEART": 2721,
+              "TOTAL_STROKE": 514
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 12203,
+              "TOTAL_CANCER": 2875,
+              "TOTAL_HEART": 2631,
+              "TOTAL_STROKE": 490
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 11984,
+              "TOTAL_CANCER": 2773,
+              "TOTAL_HEART": 2571,
+              "TOTAL_STROKE": 457
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 11516,
+              "TOTAL_CANCER": 2698,
+              "TOTAL_HEART": 2464,
+              "TOTAL_STROKE": 474
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 10897,
+              "TOTAL_CANCER": 2584,
+              "TOTAL_HEART": 2434,
+              "TOTAL_STROKE": 441
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 10730,
+              "TOTAL_CANCER": 2660,
+              "TOTAL_HEART": 2324,
+              "TOTAL_STROKE": 457
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 10823,
+              "TOTAL_CANCER": 2740,
+              "TOTAL_HEART": 2333,
+              "TOTAL_STROKE": 490
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 10201,
+              "TOTAL_CANCER": 2525,
+              "TOTAL_HEART": 2290,
+              "TOTAL_STROKE": 500
+            }
+          ],
+          "NewJersey": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 74846,
+              "TOTAL_CANCER": 16264,
+              "TOTAL_HEART": 18840,
+              "TOTAL_STROKE": 3474
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 73155,
+              "TOTAL_CANCER": 16377,
+              "TOTAL_HEART": 18597,
+              "TOTAL_STROKE": 3401
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 72271,
+              "TOTAL_CANCER": 16270,
+              "TOTAL_HEART": 18647,
+              "TOTAL_STROKE": 3413
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 71316,
+              "TOTAL_CANCER": 16591,
+              "TOTAL_HEART": 18319,
+              "TOTAL_STROKE": 3419
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 71403,
+              "TOTAL_CANCER": 16315,
+              "TOTAL_HEART": 18460,
+              "TOTAL_STROKE": 3456
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 70534,
+              "TOTAL_CANCER": 16485,
+              "TOTAL_HEART": 18340,
+              "TOTAL_STROKE": 3440
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 70558,
+              "TOTAL_CANCER": 16708,
+              "TOTAL_HEART": 18330,
+              "TOTAL_STROKE": 3418
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 69495,
+              "TOTAL_CANCER": 16815,
+              "TOTAL_HEART": 18730,
+              "TOTAL_STROKE": 3402
+            }
+          ],
+          "NewMexico": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 18673,
+              "TOTAL_CANCER": 3620,
+              "TOTAL_HEART": 3896,
+              "TOTAL_STROKE": 878
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 18365,
+              "TOTAL_CANCER": 3560,
+              "TOTAL_HEART": 3800,
+              "TOTAL_STROKE": 885
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 17685,
+              "TOTAL_CANCER": 3591,
+              "TOTAL_HEART": 3508,
+              "TOTAL_STROKE": 786
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 17579,
+              "TOTAL_CANCER": 3478,
+              "TOTAL_HEART": 3424,
+              "TOTAL_STROKE": 822
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 16805,
+              "TOTAL_CANCER": 3482,
+              "TOTAL_HEART": 3425,
+              "TOTAL_STROKE": 689
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 16710,
+              "TOTAL_CANCER": 3462,
+              "TOTAL_HEART": 3352,
+              "TOTAL_STROKE": 677
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 16452,
+              "TOTAL_CANCER": 3328,
+              "TOTAL_HEART": 3333,
+              "TOTAL_STROKE": 727
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 15931,
+              "TOTAL_CANCER": 3358,
+              "TOTAL_HEART": 3224,
+              "TOTAL_STROKE": 806
+            }
+          ],
+          "NewYork": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 155358,
+              "TOTAL_CANCER": 34956,
+              "TOTAL_HEART": 44092,
+              "TOTAL_STROKE": 6264
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 154358,
+              "TOTAL_CANCER": 35368,
+              "TOTAL_HEART": 44076,
+              "TOTAL_STROKE": 6258
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 153628,
+              "TOTAL_CANCER": 35089,
+              "TOTAL_HEART": 44450,
+              "TOTAL_STROKE": 6292
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 149944,
+              "TOTAL_CANCER": 35392,
+              "TOTAL_HEART": 43116,
+              "TOTAL_STROKE": 6212
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 150919,
+              "TOTAL_CANCER": 35738,
+              "TOTAL_HEART": 44039,
+              "TOTAL_STROKE": 6176
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 148991,
+              "TOTAL_CANCER": 35882,
+              "TOTAL_HEART": 43795,
+              "TOTAL_STROKE": 6139
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 149174,
+              "TOTAL_CANCER": 35469,
+              "TOTAL_HEART": 44501,
+              "TOTAL_STROKE": 6254
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 146432,
+              "TOTAL_CANCER": 35431,
+              "TOTAL_HEART": 44981,
+              "TOTAL_STROKE": 6213
+            }
+          ],
+          "NorthCarolina": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 93157,
+              "TOTAL_CANCER": 19474,
+              "TOTAL_HEART": 18808,
+              "TOTAL_STROKE": 5098
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 90465,
+              "TOTAL_CANCER": 19523,
+              "TOTAL_HEART": 18266,
+              "TOTAL_STROKE": 4940
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 89133,
+              "TOTAL_CANCER": 19322,
+              "TOTAL_HEART": 18474,
+              "TOTAL_STROKE": 5033
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 85367,
+              "TOTAL_CANCER": 19342,
+              "TOTAL_HEART": 17592,
+              "TOTAL_STROKE": 4702
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 83329,
+              "TOTAL_CANCER": 18589,
+              "TOTAL_HEART": 17830,
+              "TOTAL_STROKE": 4503
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 81925,
+              "TOTAL_CANCER": 18405,
+              "TOTAL_HEART": 17348,
+              "TOTAL_STROKE": 4410
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 79882,
+              "TOTAL_CANCER": 18284,
+              "TOTAL_HEART": 17003,
+              "TOTAL_STROKE": 4299
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 78773,
+              "TOTAL_CANCER": 18061,
+              "TOTAL_HEART": 17154,
+              "TOTAL_STROKE": 4298
+            }
+          ],
+          "NorthDakota": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 6415,
+              "TOTAL_CANCER": 1280,
+              "TOTAL_HEART": 1326,
+              "TOTAL_STROKE": 337
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 6242,
+              "TOTAL_CANCER": 1253,
+              "TOTAL_HEART": 1338,
+              "TOTAL_STROKE": 311
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 6223,
+              "TOTAL_CANCER": 1320,
+              "TOTAL_HEART": 1323,
+              "TOTAL_STROKE": 308
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 6184,
+              "TOTAL_CANCER": 1304,
+              "TOTAL_HEART": 1381,
+              "TOTAL_STROKE": 325
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 6233,
+              "TOTAL_CANCER": 1286,
+              "TOTAL_HEART": 1382,
+              "TOTAL_STROKE": 306
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 6038,
+              "TOTAL_CANCER": 1253,
+              "TOTAL_HEART": 1368,
+              "TOTAL_STROKE": 343
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 5965,
+              "TOTAL_CANCER": 1321,
+              "TOTAL_HEART": 1290,
+              "TOTAL_STROKE": 337
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 5944,
+              "TOTAL_CANCER": 1269,
+              "TOTAL_HEART": 1395,
+              "TOTAL_STROKE": 382
+            }
+          ],
+          "Ohio": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 123648,
+              "TOTAL_CANCER": 25643,
+              "TOTAL_HEART": 28008,
+              "TOTAL_STROKE": 6425
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 119572,
+              "TOTAL_CANCER": 25509,
+              "TOTAL_HEART": 27410,
+              "TOTAL_STROKE": 5987
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 118188,
+              "TOTAL_CANCER": 25396,
+              "TOTAL_HEART": 28069,
+              "TOTAL_STROKE": 5945
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 114509,
+              "TOTAL_CANCER": 25433,
+              "TOTAL_HEART": 27000,
+              "TOTAL_STROKE": 5791
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 113258,
+              "TOTAL_CANCER": 24986,
+              "TOTAL_HEART": 26878,
+              "TOTAL_STROKE": 5690
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 112498,
+              "TOTAL_CANCER": 25261,
+              "TOTAL_HEART": 26426,
+              "TOTAL_STROKE": 5788
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 111427,
+              "TOTAL_CANCER": 25140,
+              "TOTAL_HEART": 26298,
+              "TOTAL_STROKE": 5691
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 108711,
+              "TOTAL_CANCER": 25083,
+              "TOTAL_HEART": 26164,
+              "TOTAL_STROKE": 5755
+            }
+          ],
+          "Oklahoma": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 40452,
+              "TOTAL_CANCER": 8203,
+              "TOTAL_HEART": 10772,
+              "TOTAL_STROKE": 1947
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 39276,
+              "TOTAL_CANCER": 8115,
+              "TOTAL_HEART": 10209,
+              "TOTAL_STROKE": 1859
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 39422,
+              "TOTAL_CANCER": 8280,
+              "TOTAL_HEART": 10310,
+              "TOTAL_STROKE": 1881
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 38464,
+              "TOTAL_CANCER": 7934,
+              "TOTAL_HEART": 9868,
+              "TOTAL_STROKE": 1847
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 38384,
+              "TOTAL_CANCER": 8039,
+              "TOTAL_HEART": 9721,
+              "TOTAL_STROKE": 1880
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 36870,
+              "TOTAL_CANCER": 8040,
+              "TOTAL_HEART": 9198,
+              "TOTAL_STROKE": 1893
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 37175,
+              "TOTAL_CANCER": 7997,
+              "TOTAL_HEART": 9399,
+              "TOTAL_STROKE": 1864
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 36529,
+              "TOTAL_CANCER": 7831,
+              "TOTAL_HEART": 9426,
+              "TOTAL_STROKE": 1980
+            }
+          ],
+          "Oregon": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 36624,
+              "TOTAL_CANCER": 8083,
+              "TOTAL_HEART": 6942,
+              "TOTAL_STROKE": 2066
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 35778,
+              "TOTAL_CANCER": 8078,
+              "TOTAL_HEART": 6968,
+              "TOTAL_STROKE": 1943
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 35705,
+              "TOTAL_CANCER": 8093,
+              "TOTAL_HEART": 6859,
+              "TOTAL_STROKE": 1873
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 34151,
+              "TOTAL_CANCER": 7863,
+              "TOTAL_HEART": 6524,
+              "TOTAL_STROKE": 1821
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 33939,
+              "TOTAL_CANCER": 7799,
+              "TOTAL_HEART": 6523,
+              "TOTAL_STROKE": 1775
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 32759,
+              "TOTAL_CANCER": 7832,
+              "TOTAL_HEART": 6180,
+              "TOTAL_STROKE": 1763
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 32788,
+              "TOTAL_CANCER": 7802,
+              "TOTAL_HEART": 6255,
+              "TOTAL_STROKE": 1913
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 31890,
+              "TOTAL_CANCER": 7638,
+              "TOTAL_HEART": 6198,
+              "TOTAL_STROKE": 1793
+            }
+          ],
+          "Pennsylvania": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 135656,
+              "TOTAL_CANCER": 28387,
+              "TOTAL_HEART": 32312,
+              "TOTAL_STROKE": 6700
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 133040,
+              "TOTAL_CANCER": 28492,
+              "TOTAL_HEART": 31990,
+              "TOTAL_STROKE": 6730
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 132598,
+              "TOTAL_CANCER": 28697,
+              "TOTAL_HEART": 32042,
+              "TOTAL_STROKE": 6987
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 128434,
+              "TOTAL_CANCER": 28692,
+              "TOTAL_HEART": 31353,
+              "TOTAL_STROKE": 6576
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 129123,
+              "TOTAL_CANCER": 28512,
+              "TOTAL_HEART": 31629,
+              "TOTAL_STROKE": 6604
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 126981,
+              "TOTAL_CANCER": 28909,
+              "TOTAL_HEART": 30952,
+              "TOTAL_STROKE": 6546
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 128237,
+              "TOTAL_CANCER": 28895,
+              "TOTAL_HEART": 31934,
+              "TOTAL_STROKE": 6825
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 124596,
+              "TOTAL_CANCER": 29055,
+              "TOTAL_HEART": 31556,
+              "TOTAL_STROKE": 6701
+            }
+          ],
+          "Rhode Island": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 10157,
+              "TOTAL_CANCER": 2154,
+              "TOTAL_HEART": 2339,
+              "TOTAL_STROKE": 425
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 9735,
+              "TOTAL_CANCER": 2171,
+              "TOTAL_HEART": 2256,
+              "TOTAL_STROKE": 399
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 10163,
+              "TOTAL_CANCER": 2226,
+              "TOTAL_HEART": 2371,
+              "TOTAL_STROKE": 394
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 9770,
+              "TOTAL_CANCER": 2242,
+              "TOTAL_HEART": 2341,
+              "TOTAL_STROKE": 373
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 9792,
+              "TOTAL_CANCER": 2326,
+              "TOTAL_HEART": 2364,
+              "TOTAL_STROKE": 397
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 9354,
+              "TOTAL_CANCER": 2148,
+              "TOTAL_HEART": 2360,
+              "TOTAL_STROKE": 433
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 9581,
+              "TOTAL_CANCER": 2170,
+              "TOTAL_HEART": 2390,
+              "TOTAL_STROKE": 404
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 9579,
+              "TOTAL_CANCER": 2266,
+              "TOTAL_HEART": 2322,
+              "TOTAL_STROKE": 431
+            }
+          ],
+          "South Carolina": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 49441,
+              "TOTAL_CANCER": 10356,
+              "TOTAL_HEART": 10418,
+              "TOTAL_STROKE": 2691
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 48130,
+              "TOTAL_CANCER": 10356,
+              "TOTAL_HEART": 10195,
+              "TOTAL_STROKE": 2627
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 47198,
+              "TOTAL_CANCER": 9950,
+              "TOTAL_HEART": 10092,
+              "TOTAL_STROKE": 2600
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 45454,
+              "TOTAL_CANCER": 9930,
+              "TOTAL_HEART": 9964,
+              "TOTAL_STROKE": 2393
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 44582,
+              "TOTAL_CANCER": 9728,
+              "TOTAL_HEART": 9648,
+              "TOTAL_STROKE": 2508
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 43198,
+              "TOTAL_CANCER": 9543,
+              "TOTAL_HEART": 9295,
+              "TOTAL_STROKE": 2349
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 42072,
+              "TOTAL_CANCER": 9543,
+              "TOTAL_HEART": 9295,
+              "TOTAL_STROKE": 2293
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 41614,
+              "TOTAL_CANCER": 9356,
+              "TOTAL_HEART": 9295,
+              "TOTAL_STROKE": 2293
+            }
+          ],
+          "South Dakota": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 7996,
+              "TOTAL_CANCER": 1715,
+              "TOTAL_HEART": 1710,
+              "TOTAL_STROKE": 414
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 7845,
+              "TOTAL_CANCER": 1694,
+              "TOTAL_HEART": 1729,
+              "TOTAL_STROKE": 420
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 7731,
+              "TOTAL_CANCER": 1640,
+              "TOTAL_HEART": 1711,
+              "TOTAL_STROKE": 383
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 7507,
+              "TOTAL_CANCER": 1698,
+              "TOTAL_HEART": 1704,
+              "TOTAL_STROKE": 439
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 7099,
+              "TOTAL_CANCER": 1577,
+              "TOTAL_HEART": 1630,
+              "TOTAL_STROKE": 418
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 7333,
+              "TOTAL_CANCER": 1630,
+              "TOTAL_HEART": 1668,
+              "TOTAL_STROKE": 408
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 7314,
+              "TOTAL_CANCER": 1665,
+              "TOTAL_HEART": 1625,
+              "TOTAL_STROKE": 444
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 7100,
+              "TOTAL_CANCER": 1655,
+              "TOTAL_HEART": 1616,
+              "TOTAL_STROKE": 416
+            }
+          ],
+          "Tennessee": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 67857,
+              "TOTAL_CANCER": 14302,
+              "TOTAL_HEART": 16019,
+              "TOTAL_STROKE": 3519
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 66570,
+              "TOTAL_CANCER": 14450,
+              "TOTAL_HEART": 15429,
+              "TOTAL_STROKE": 3508
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 64661,
+              "TOTAL_CANCER": 14173,
+              "TOTAL_HEART": 15730,
+              "TOTAL_STROKE": 3447
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 63406,
+              "TOTAL_CANCER": 14214,
+              "TOTAL_HEART": 15223,
+              "TOTAL_STROKE": 3326
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 61956,
+              "TOTAL_CANCER": 13953,
+              "TOTAL_HEART": 14803,
+              "TOTAL_STROKE": 3157
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 60541,
+              "TOTAL_CANCER": 13765,
+              "TOTAL_HEART": 14454,
+              "TOTAL_STROKE": 3120
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 59578,
+              "TOTAL_CANCER": 13562,
+              "TOTAL_HEART": 14235,
+              "TOTAL_STROKE": 3218
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 57933,
+              "TOTAL_CANCER": 13400,
+              "TOTAL_HEART": 13865,
+              "TOTAL_STROKE": 3083
+            }
+          ],
+          "Texas": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 191966,
+              "TOTAL_CANCER": 40668,
+              "TOTAL_HEART": 45346,
+              "TOTAL_STROKE": 10790
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 191966,
+              "TOTAL_CANCER": 40195,
+              "TOTAL_HEART": 43772,
+              "TOTAL_STROKE": 10673
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 189654,
+              "TOTAL_CANCER": 39121,
+              "TOTAL_HEART": 43298,
+              "TOTAL_STROKE": 10485
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 183912,
+              "TOTAL_CANCER": 38847,
+              "TOTAL_HEART": 41479,
+              "TOTAL_STROKE": 9898
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 179183,
+              "TOTAL_CANCER": 38412,
+              "TOTAL_HEART": 40203,
+              "TOTAL_STROKE": 9283
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 174187,
+              "TOTAL_CANCER": 38142,
+              "TOTAL_HEART": 39061,
+              "TOTAL_STROKE": 9305
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 168640,
+              "TOTAL_CANCER": 37351,
+              "TOTAL_HEART": 38094,
+              "TOTAL_STROKE": 9065
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 166527,
+              "TOTAL_CANCER": 36717,
+              "TOTAL_HEART": 38253,
+              "TOTAL_STROKE": 9180
+            }
+          ],
+          "Utah": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 17913,
+              "TOTAL_CANCER": 3161,
+              "TOTAL_HEART": 3749,
+              "TOTAL_STROKE": 888
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 17334,
+              "TOTAL_CANCER": 3125,
+              "TOTAL_HEART": 3636,
+              "TOTAL_STROKE": 932
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 16719,
+              "TOTAL_CANCER": 3091,
+              "TOTAL_HEART": 3598,
+              "TOTAL_STROKE": 888
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 16366,
+              "TOTAL_CANCER": 3043,
+              "TOTAL_HEART": 3431,
+              "TOTAL_STROKE": 856
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 15676,
+              "TOTAL_CANCER": 2971,
+              "TOTAL_HEART": 3323,
+              "TOTAL_STROKE": 836
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 15266,
+              "TOTAL_CANCER": 2876,
+              "TOTAL_HEART": 3091,
+              "TOTAL_STROKE": 809
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 14776,
+              "TOTAL_CANCER": 2746,
+              "TOTAL_HEART": 3036,
+              "TOTAL_STROKE": 782
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 14323,
+              "TOTAL_CANCER": 2810,
+              "TOTAL_HEART": 2889,
+              "TOTAL_STROKE": 739
+            }
+          ],
+          "Vermont": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 6007,
+              "TOTAL_CANCER": 1434,
+              "TOTAL_HEART": 1332,
+              "TOTAL_STROKE": 249
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 5909,
+              "TOTAL_CANCER": 1356,
+              "TOTAL_HEART": 1366,
+              "TOTAL_STROKE": 247
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 5919,
+              "TOTAL_CANCER": 1379,
+              "TOTAL_HEART": 1311,
+              "TOTAL_STROKE": 265
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 5491,
+              "TOTAL_CANCER": 1379,
+              "TOTAL_HEART": 1311,
+              "TOTAL_STROKE": 281
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 5639,
+              "TOTAL_CANCER": 1318,
+              "TOTAL_HEART": 1220,
+              "TOTAL_STROKE": 260
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 5491,
+              "TOTAL_CANCER": 1325,
+              "TOTAL_HEART": 1206,
+              "TOTAL_STROKE": 364
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 5433,
+              "TOTAL_CANCER": 1347,
+              "TOTAL_HEART": 1187,
+              "TOTAL_STROKE": 349
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 5380,
+              "TOTAL_CANCER": 1392,
+              "TOTAL_HEART": 1172,
+              "TOTAL_STROKE": 335
+            }
+          ],
+          "Virginia": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 68579,
+              "TOTAL_CANCER": 15064,
+              "TOTAL_HEART": 14861,
+              "TOTAL_STROKE": 3555
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 66473,
+              "TOTAL_CANCER": 15027,
+              "TOTAL_HEART": 14124,
+              "TOTAL_STROKE": 3502
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 65577,
+              "TOTAL_CANCER": 14947,
+              "TOTAL_HEART": 14077,
+              "TOTAL_STROKE": 3393
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 63598,
+              "TOTAL_CANCER": 14749,
+              "TOTAL_HEART": 13874,
+              "TOTAL_STROKE": 3229
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 62716,
+              "TOTAL_CANCER": 14414,
+              "TOTAL_HEART": 13663,
+              "TOTAL_STROKE": 3287
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 61564,
+              "TOTAL_CANCER": 14294,
+              "TOTAL_HEART": 13386,
+              "TOTAL_STROKE": 3394
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 60804,
+              "TOTAL_CANCER": 14376,
+              "TOTAL_HEART": 13272,
+              "TOTAL_STROKE": 3347
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 59032,
+              "TOTAL_CANCER": 14080,
+              "TOTAL_HEART": 13404,
+              "TOTAL_STROKE": 3293
+            }
+          ],
+          "Washington": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 56995,
+              "TOTAL_CANCER": 12664,
+              "TOTAL_HEART": 11582,
+              "TOTAL_STROKE": 3028
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 54769,
+              "TOTAL_CANCER": 12594,
+              "TOTAL_HEART": 11161,
+              "TOTAL_STROKE": 2910
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 54595,
+              "TOTAL_CANCER": 12687,
+              "TOTAL_HEART": 11025,
+              "TOTAL_STROKE": 2703
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 52099,
+              "TOTAL_CANCER": 12205,
+              "TOTAL_HEART": 10710,
+              "TOTAL_STROKE": 2649
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 51264,
+              "TOTAL_CANCER": 11928,
+              "TOTAL_HEART": 10524,
+              "TOTAL_STROKE": 2652
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 50105,
+              "TOTAL_CANCER": 11952,
+              "TOTAL_HEART": 10360,
+              "TOTAL_STROKE": 2513
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 49691,
+              "TOTAL_CANCER": 12002,
+              "TOTAL_HEART": 10439,
+              "TOTAL_STROKE": 2557
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 48146,
+              "TOTAL_CANCER": 11874,
+              "TOTAL_HEART": 10602,
+              "TOTAL_STROKE": 2548
+            }
+          ],
+          "West Virginia": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 23276,
+              "TOTAL_CANCER": 4654,
+              "TOTAL_HEART": 4849,
+              "TOTAL_STROKE": 1058
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 22732,
+              "TOTAL_CANCER": 4659,
+              "TOTAL_HEART": 4767,
+              "TOTAL_STROKE": 1039
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 22752,
+              "TOTAL_CANCER": 4839,
+              "TOTAL_HEART": 4727,
+              "TOTAL_STROKE": 1079
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 22186,
+              "TOTAL_CANCER": 4880,
+              "TOTAL_HEART": 4692,
+              "TOTAL_STROKE": 1103
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 21843,
+              "TOTAL_CANCER": 4718,
+              "TOTAL_HEART": 4666,
+              "TOTAL_STROKE": 983
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 21915,
+              "TOTAL_CANCER": 4684,
+              "TOTAL_HEART": 4942,
+              "TOTAL_STROKE": 1140
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 21867,
+              "TOTAL_CANCER": 4782,
+              "TOTAL_HEART": 4914,
+              "TOTAL_STROKE": 1049
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 21275,
+              "TOTAL_CANCER": 4685,
+              "TOTAL_HEART": 4897,
+              "TOTAL_STROKE": 1104
+            }
+          ],
+          "Wisconsin": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 52681,
+              "TOTAL_CANCER": 11318,
+              "TOTAL_HEART": 11860,
+              "TOTAL_STROKE": 2513
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 51815,
+              "TOTAL_CANCER": 11498,
+              "TOTAL_HEART": 11526,
+              "TOTAL_STROKE": 2481
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 51264,
+              "TOTAL_CANCER": 11423,
+              "TOTAL_HEART": 11473,
+              "TOTAL_STROKE": 2618
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 50291,
+              "TOTAL_CANCER": 11393,
+              "TOTAL_HEART": 11229,
+              "TOTAL_STROKE": 2511
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 50026,
+              "TOTAL_CANCER": 11425,
+              "TOTAL_HEART": 11362,
+              "TOTAL_STROKE": 2536
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 48384,
+              "TOTAL_CANCER": 11252,
+              "TOTAL_HEART": 11282,
+              "TOTAL_STROKE": 2520
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 48410,
+              "TOTAL_CANCER": 11608,
+              "TOTAL_HEART": 11266,
+              "TOTAL_STROKE": 2554
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 47308,
+              "TOTAL_CANCER": 11279,
+              "TOTAL_HEART": 11115,
+              "TOTAL_STROKE": 2609
+            }
+          ],
+          "Wyoming": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 4768,
+              "TOTAL_CANCER": 948,
+              "TOTAL_HEART": 1001,
+              "TOTAL_STROKE": 190
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 4722,
+              "TOTAL_CANCER": 962,
+              "TOTAL_HEART": 1051,
+              "TOTAL_STROKE": 208
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 4778,
+              "TOTAL_CANCER": 931,
+              "TOTAL_HEART": 1030,
+              "TOTAL_STROKE": 198
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 4666,
+              "TOTAL_CANCER": 922,
+              "TOTAL_HEART": 1035,
+              "TOTAL_STROKE": 189
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 4516,
+              "TOTAL_CANCER": 946,
+              "TOTAL_HEART": 939,
+              "TOTAL_STROKE": 213
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 4481,
+              "TOTAL_CANCER": 955,
+              "TOTAL_HEART": 1005,
+              "TOTAL_STROKE": 205
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 4387,
+              "TOTAL_CANCER": 936,
+              "TOTAL_HEART": 926,
+              "TOTAL_STROKE": 214
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 4438,
+              "TOTAL_CANCER": 1016,
+              "TOTAL_HEART": 962,
+              "TOTAL_STROKE": 204
+            }
+          ],
+          "United States": [
+            {
+              "YEAR": 2017,
+              "TOTAL_DEATHS": 2813503,
+              "TOTAL_CANCER": 599108,
+              "TOTAL_HEART": 647457,
+              "TOTAL_STROKE": 146383
+            },
+            {
+              "YEAR": 2016,
+              "TOTAL_DEATHS": 2744248,
+              "TOTAL_CANCER": 598038,
+              "TOTAL_HEART": 635260,
+              "TOTAL_STROKE": 142142
+            },
+            {
+              "YEAR": 2015,
+              "TOTAL_DEATHS": 2712630,
+              "TOTAL_CANCER": 595930,
+              "TOTAL_HEART": 633842,
+              "TOTAL_STROKE": 140323
+            },
+            {
+              "YEAR": 2014,
+              "TOTAL_DEATHS": 2626418,
+              "TOTAL_CANCER": 591700,
+              "TOTAL_HEART": 614348,
+              "TOTAL_STROKE": 133103
+            },
+            {
+              "YEAR": 2013,
+              "TOTAL_DEATHS": 2596993,
+              "TOTAL_CANCER": 584881,
+              "TOTAL_HEART": 611105,
+              "TOTAL_STROKE": 128978
+            },
+            {
+              "YEAR": 2012,
+              "TOTAL_DEATHS": 2543279,
+              "TOTAL_CANCER": 582623,
+              "TOTAL_HEART": 599711,
+              "TOTAL_STROKE": 128546
+            },
+            {
+              "YEAR": 2011,
+              "TOTAL_DEATHS": 2515458,
+              "TOTAL_CANCER": 576691,
+              "TOTAL_HEART": 596577,
+              "TOTAL_STROKE": 128932
+            },
+            {
+              "YEAR": 2010,
+              "TOTAL_DEATHS": 2468435,
+              "TOTAL_CANCER": 574743,
+              "TOTAL_HEART": 597689,
+              "TOTAL_STROKE": 129476
+            }
+          ]
+  }
