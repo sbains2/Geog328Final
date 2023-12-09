@@ -72,8 +72,8 @@ function showLineChart(stateName) {
                 {
                     label: 'Total Stroke',
                     data: yData_D,
-                    borderColor: 'rgba(238, 146, 0, 1)',
-                    backgroundColor: 'rgba(238, 146, 0, 0.5)',
+                    borderColor: 'rgba(50, 128, 255, 1)', 
+                    backgroundColor: 'rgba(50, 128, 255, 0.5)', 
                     borderWidth: 1.5,
                 },
             ],
