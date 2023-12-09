@@ -3,8 +3,8 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoic2RhbmcyIiwiYSI6ImNsb291OWF3OTAzZXIyd2xhdTBwY
 const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
-    zoom: 2.3,
-    center: [-120.1, 49.0]
+    zoom: 3,
+    center: [-105, 39.3]
 });
 
 map.addControl(new mapboxgl.NavigationControl(), 'top-left');
@@ -35,7 +35,7 @@ async function obese_data() {
                 36, '#2E8B57',  // Darkest Green
                 40, '#2E8B57'   // Darkest Green
             ],
-            'fill-opacity': 0.7
+            'fill-opacity': 0.8
         }
     });
 
@@ -49,13 +49,13 @@ async function obese_data() {
         '40+'
     ];
     const colors = [
-        '#C1FFC1',
-        '#98FB98',
-        '#8FBC8F',
-        '#6B8E23',
-        '#4CAF50',
-        '#3CB371',
-        '#2E8B57'
+        '#C1FFC198',
+        '#98FB9898',
+        '#8FBC8F98',
+        '#6B8E2398',
+        '#4CAF5098',
+        '#3CB37198',
+        '#2E8B5798'
     ];
 
     const legend = document.getElementById('legend');
