@@ -7,7 +7,7 @@ Project Description:
 This project aims to explore the complex relationship between Obesity cases and medical diseases in the United States over the years. The primary objective is to create an interactive map that visually represents this relationship across different states, providing a user-friendly tool for users to understand the connection between Obesity cases and Medical diseases(such as cancer, Heart diseases, Strokes).
 
 Project Goal:
-The goal of this project is to deliver an insightful and functional interactive map that highlights the correlation between obesity cases and medical diseases across various U.S. states. This visual representation can serve as a valuable resource for government officials, policymakers, healthcare professionals, and insurance providers.
+The goal of this project is to deliver an insightful and functional interactive map that highlights the correlation between obesity cases and medical diseases across various U.S. states. This visual representation can serve as a valuable resource for government officials, policymakers, healthcare professionals, and insurance providers. In essence, this project aspires to offer a holistic understanding of the obesity-medical diseases relationship, translating data into actionable insights that can drive positive changes in public health and healthcare management.
 
 
 The application URL : https://sbains2.github.io/Geog328Final/index.html
