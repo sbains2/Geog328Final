@@ -209,16 +209,6 @@ async function obese_data() {
         document.getElementById('text-description').innerHTML = `<p> Hover over any state! </p>`;
     });
 
-    // Click event remains unchanged
-    map.on('click', 'state_data_layer', (e) => {
-        const stateName = e.features[0].properties.NAME;
-        const obesityRate = e.features[0].properties.Obesity;
-
-        new mapboxgl.Popup()
-            .setLngLat(e.lngLat)
-            .setHTML(`<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`)
-            .addTo(map);
-    });
 
     let hoveredPolygonId = null;
     map.on('mousemove', 'state_data_layer', (e) => {
@@ -351,9 +341,4 @@ function closePopup(n) {
         document.getElementById("acknowledge-popup").style.display = "none";
     }
 }
-
-
-
-
-
 
