@@ -1,7 +1,7 @@
 # Geog328Final
 
 ## Project Title:
-Exploring the Relationship between Obesity cases and medical diseases in the United States
+Exploring the Relationship between Obesity and Leading Causes of Death in the United States
 
 ## Project Description:
 Overall, this project aims to uncover the relationship between the overall obesity proportions as well as prevalent medical diseases in the United States throughout 7 years, in addition to the obesity data from 2015. Our focus is on the development of an interactive map that integrates HTML, CSS, and JS to show the relationship across all states. Our prioritization is to give a user-friendly interface so the relationship is more easily interpreted. 
