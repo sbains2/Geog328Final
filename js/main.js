@@ -115,7 +115,7 @@ function showLineChart(stateName) {
         },
     });
 }
-let nationalFeature;
+let national;
 async function obese_data() {
     let respond = await fetch("assets/National_Obesity_By_State.geojson");
     let state_data = await respond.json();
@@ -271,8 +271,8 @@ async function obese_data() {
                 clicked: true
             });
         } else {
-            document.getElementById('text-description').innerHTML = `<h3>${nationalFeature.properties.STATE}</h3>`;
-            document.getElementById('text-description').innerHTML += `<p><strong><em>${nationalFeature.properties.Obesity}</em></strong></p>`;
+            document.getElementById('text-description').innerHTML = `<h3>${national.properties.STATE}</h3>`;
+            document.getElementById('text-description').innerHTML += `<p><strong><em>${national.properties.Obesity}</em></strong></p>`;
             showLineChart('United States');
     
             if (polygonID) {
