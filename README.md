@@ -1,7 +1,7 @@
 # Geog328Final
 
 Project Title:
-Exploring the Relationship between Obesity cases and medical diseases in the United States
+Exploring the relationship between obesity cases and medical diseases in the United States
 
 Project Description:
 This project aims to explore the complex relationship between Obesity cases and medical diseases in the United States over the years. The primary objective is to create an interactive map that visually represents this relationship across different states, providing a user-friendly tool for users to understand the connection between Obesity cases and Medical diseases(such as cancer, Heart diseases, Strokes).
@@ -14,7 +14,7 @@ The application URL : https://sbains2.github.io/Geog328Final/index.html
 
 
 
-Main functions: The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
+Main functions: The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to obsesity cases and medical diseases across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
 
 
 Data sources: 
