@@ -14,7 +14,7 @@ With regard to the HTML, we prioritized the optimal layout that would allow user
 
 Project Goal:
 
-One goal that we prioritized is the conductive temporal analyses spanning over a 7-year period throughout 2010-2017. Here, we integrate the nuanced spectrum of the obesity proportions aligning with their corresponding prevalent medical diseases. The perspective of the temporal analysis allows us to take a closer look at the distinctive patters with regards to the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
+One goal that we prioritized is the conductive temporal analyses spanning over a 7-year period throughout 2010-2017, in addition to Obesity data from the year 2015. Here, we integrate the nuanced spectrum of the obesity proportions aligning with their corresponding prevalent medical diseases. The perspective of the temporal analysis allows us to take a closer look at the distinctive patters with regards to the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
 
 Another prioritizing goal that led our project was creating a user-friendly design that highlights an intuitive and accessible design, so that users are given the freedom to navigate seamlessly throughout the site. Through ensuring these factors in our design, we hope to attract and empower a broader audience, which include government officials, insurance providers, and policymakers in order to easily perceive the relationship between obesity proportion statistics and underlying medical diseases. 
 
