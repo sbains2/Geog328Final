@@ -151,11 +151,11 @@ async function obese_data() {
     });
 
     const layers = [
-        '20-24',
-        '24-28',
-        '28-32',
-        '32-36',
-        '36-40+'
+        '20-24%',
+        '24-28%',
+        '28-32%',
+        '32-36%',
+        '36-40%+'
     ];
     const colors = [
         '#a1debf99', // Darker Green than 24'#4CAF50'
