@@ -25,7 +25,9 @@ The application URL : https://sbains2.github.io/Geog328Final/index.html
 
 
 
-## Main functions: The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
+## Main functions:
+
+The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
 
 
 ## Data sources: 
