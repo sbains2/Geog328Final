@@ -1,9 +1,9 @@
 # Geog328Final
 
-Project Title:
+## Project Title:
 Exploring the Relationship between Obesity cases and medical diseases in the United States
 
-Project Description:
+## Project Description:
 Overall, this project aims to uncover the intricate relationship between the overall obesity proportions as well as prevalent medical diseases in the United States throughout a 7 year period. Our focus is on the development of an interactive map that integrates HTML, CSS, and JS to convey these correlations across all states. Our prioritization is to give a user-friendly interface that can be easily interpreted to the relationship of obesity cases and the underlying medical conditions, including cancer, heart disease, and strokes. 
 
 In terms of the JavaScript code, we employed Mapbox and Chart.js to dynamically project the temporal as well as the spatial trends. Some of the features include tooltips for state specific statistics over the period from 2010 - 2017. We implemented distinct color schemes in order to differentiate the disease statistics for Total Deaths, Total Cancer, Total Heart, and Total Stroke cases.
@@ -12,7 +12,7 @@ With regard to the HTML, we prioritized the optimal layout that would allow user
 
 
 
-Project Goal:
+## Project Goal:
 
 One goal that we prioritized is the conductive temporal analyses spanning over a 7-year period throughout 2010-2017. Here, we integrate the nuanced spectrum of the obesity proportions aligning with their corresponding prevalent medica diseases. The perspective of the temporal analysis allows us to take a closer look at the distinctive patters with regards to the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
 
@@ -25,10 +25,10 @@ The application URL : https://sbains2.github.io/Geog328Final/index.html
 
 
 
-Main functions: The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
+## Main functions: The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
 
 
-Data sources: 
+## Data sources: 
 Source 1: Data for the National Obesity Percentages (by State) [National Obesity Percentages](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
 This data set has the characteristics of National Obesity Percentages categorized by State. This source is a JSON file -- which allows us to be able visualze 
@@ -44,7 +44,7 @@ In the example given, we are inspired by the color-grading and legend within thi
 
 
 
-Applied libraries (e.g., mapbox gl js) and Web Services (e.g., github, basemap) in use:
+## Applied libraries (e.g., mapbox gl js) and Web Services (e.g., github, basemap) in use:
 
 GitHub - We used GitHub inorder to communicate and work on this project together! It is also the service that allows us to be able to represent
 this map on a GitHub website.
@@ -63,5 +63,4 @@ We would like to express our gratitude to the following contributors who played 
 Applied libraries (e.g., mapbox gl js) and Web Services (e.g., github, basemap) in use:
 
 
-Acknowledgment:
 We would like to express our gratitude to the following contributors who played a crucial role in the success of this project Nicole Yuqing Fang, Sahil Bains, Son Dang, Wyatt Richard Stanley, Heyao Yang
