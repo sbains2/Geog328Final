@@ -4,7 +4,7 @@ Project Title:
 Exploring the Relationship between Obesity cases and medical diseases in the United States
 
 Project Description:
-Overall, this project aims to uncover the intricate relationship between the overall obesity proportions as well as prevalent medical diseases in the United States throughout a 7 year period. Our focus is on the development of an interactive map that integrates HTML, CSS, and JS to convey these correlations across all states. Our prioritization is to give a user-friendly interface that can be easily interpreted to the relationship of obesity cases and the underlying medical conditions, including cancer, heart disease, and strokes. 
+Overall, this project aims to uncover the intricate relationship between the overall obesity proportions as well as prevalent medical diseases in the United States throughout a 7 year period, in addition to the obesity data from 2015. Our focus is on the development of an interactive map that integrates HTML, CSS, and JS to convey these correlations across all states. Our prioritization is to give a user-friendly interface that can be easily interpreted to the relationship of obesity cases and the underlying medical conditions, including cancer, heart disease, and strokes. 
 
 In terms of the JavaScript code, we employed Mapbox and Chart.js to dynamically project the temporal as well as the spatial trends. Some of the features include tooltips for state specific statistics over the period from 2010 - 2017. We implemented distinct color schemes in order to differentiate the disease statistics for Total Deaths, Total Cancer, Total Heart, and Total Stroke cases.
 
@@ -14,7 +14,7 @@ With regard to the HTML, we prioritized the optimal layout that would allow user
 
 Project Goal:
 
-One goal that we prioritized is the conductive temporal analyses spanning over a 7-year period throughout 2010-2017. Here, we integrate the nuanced spectrum of the obesity proportions aligning with their corresponding prevalent medica diseases. The perspective of the temporal analysis allows us to take a closer look at the distinctive patters with regards to the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
+One goal that we prioritized is the conductive temporal analyses spanning over a 7-year period throughout 2010-2017. Here, we integrate the nuanced spectrum of the obesity proportions aligning with their corresponding prevalent medical diseases. The perspective of the temporal analysis allows us to take a closer look at the distinctive patters with regards to the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
 
 Another prioritizing goal that led our project was creating a user-friendly design that highlights an intuitive and accessible design, so that users are given the freedom to navigate seamlessly throughout the site. Through ensuring these factors in our design, we hope to attract and empower a broader audience, which include government officials, insurance providers, and policymakers in order to easily perceive the relationship between obesity proportion statistics and underlying medical diseases. 
 
