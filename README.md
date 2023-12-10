@@ -52,7 +52,7 @@ this map on a GitHub website.
 Mapbox - We used MapBox to create a custom map
 
 
-Acknowledgment:
+## Acknowledgment:
 
 We wish to acknowledge that a portion of the data may be dated, considering that the Source 1 Dataset originated from a 2015 survey. 
 
