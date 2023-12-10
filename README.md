@@ -29,7 +29,7 @@ Main functions: The project involves the comprehensive collection of data from m
 
 
 Data sources: 
-Source 1: Data for the National Obesity Percentages (by State):[National Obesity Percentages](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
+Source 1: Data for the National Obesity Percentages (by State) [National Obesity Percentages](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
 This data set has the characteristics of National Obesity Percentages categorized by State. This source is a JSON file -- which allows us to be able visualze 
 the dataset onto a map, so that we're able to present the different percentages of obesity by State. 
@@ -53,6 +53,7 @@ Mapbox - We used MapBox to create a custom map
 
 
 Acknowledgment:
+
 We wish to acknowledge that a portion of the data may be dated, considering that the Source 1 Dataset originated from a 2015 survey. 
 
 It is important to recognize that the correlation between causes of death and obesity percentages is not entirely straightforward, given that fatalities attributed to conditions like Cancer, Stroke, and Heart Disease can result from factors unrelated to obesity. The creation of the map was based on the available datasets, but it is acknowledged that a more comprehensive and refined map on this subject could be developed with improved resources and datasets.
