@@ -185,3 +185,15 @@ i:hover {
    justify-content: space-between;
    align-items: center;
 }
+
+/* CSS styles for the logo */
+.logo {
+   color: white; /* Set the font color to white */
+   text-decoration: none;
+   font-size: 24px; /* Adjust font size as needed */
+   font-weight: bold; /* Set font weight to bold */
+}
+
+.logo:hover {
+   color: #e6e6e6; /* Set the font color on hover */
+}
