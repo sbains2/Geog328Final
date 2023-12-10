@@ -1,65 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta Tags -->
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="referrer" content="no-referrer"/>
 
+    <!-- External Scripts -->
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- External Stylesheets -->
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet"/>
     <link rel="stylesheet" href="css/main.css"/>
 
+    <!-- Page Title -->
     <title>2023 U.S Obesity Map</title>
 </head>
 <body>
-<header class="nav__bar">
-    <div class="nav__content">
-        <a class="logo active" href="index.html">2023 U.S Obesity Map</a>
-        <nav class="nav" id="myTopnav">
-            <ul class="nav__list">
-                <li class="nav__item">
-                    <a class="nav-link active" href="index.html"><i class="fa-solid fa-house-chimney fa-xl"></i></a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-</header>
-<main class="body-content">
-    <div id="map-container">
-        <div id="map"></div>
-        <div class="mapoverlay" id="legend"><p>Obesity Cases</p></div>
-        <a href="javascript:void(0)" id="openbtn">
-            <i class="fa-solid fa-xmark"></i>
-        </a>
-    </div>
-    <div id = "side-container">
-        <a href= 'javascript:void(0)' id="closebtn" onclick="closeNav()">
-            <i class = 'fa-solid fa-xmark'></i>
-        </a>
-        <div id='features'>
-            <h2><b>Obesity Cases</b></h2>
-            <div id='text-description'>
-                <p>Click on a state!</p>
+    <!-- Header -->
+    <header class="nav__bar">
+        <div class="nav__content">
+            <a class="logo active" href="index.html">2023 U.S Obesity Map</a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="body-content">
+        <!-- Map Container -->
+        <div id="map-container">
+            <div id="map"></div>
+            <div class="mapoverlay" id="legend"><p>Obesity Cases</p></div>
+        </div>
+
+        <!-- Side Container -->
+        <div id="side-container">
+            <!-- Features Section -->
+            <div id='features'>
+                <h2><b>Obesity Cases</b></h2>
+                <div id='text-description'>
+                    <p>Select a State to view more!</p>
+                </div>
+            </div>
+
+            <!-- Chart Container -->
+            <div id="chart-container">
+                <canvas id="line-chart" width="400" height="200"></canvas>
+            </div>
+
+            <!-- Tooltip Container -->
+            <div id="tooltip" class="tooltip"></div>
+
+            <!-- Side Panel -->
+            <div id="side-panel">
+                <!-- Change "Deaths by State" to "State Statistics" -->
+                <h3>State Statistics</h3>
+                <table>
+                    <tr>
+                        <th>State <i id="state-button"></i></th>
+                        <th>Obesity <i id="obesity-button"></i></th>
+                    </tr>
+                </table>
             </div>
         </div>
-    <div id ="chart-container">
-        <canvas id="line-chart" width="400" height="200"></canvas>
-    </div>
-    <!-- Tooltip Container -->
-    <div id="tooltip" class="tooltip"></div>
-    <div id="side-panel">
-        <!-- Change "Deaths by State" to "State Statistics" -->
-        <h3>State Statistics</h3>
-        <table>
-            <tr>
-                <th>State <i id="state-button" class="fa fa-fw fa-sort"></i></th>
-                <th>Obesity<i id="obesity-button" class="fa fa-fw fa-sort"></i></th>
-            </tr>
-        </table>
-    </div>
-    </div>
-</main>
-<script src="js/main.js"></script>
+    </main>
+
+    <!-- Main Script -->
+    <script src="js/main.js"></script>
 </body>
 </html>
