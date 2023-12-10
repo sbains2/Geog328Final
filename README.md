@@ -57,7 +57,7 @@ In the example given, we are inspired by the color-grading and legend within thi
 
 ## Applied libraries (e.g., mapbox gl js) and Web Services (e.g., github, basemap) in use:
 
-GitHub - We used GitHub inorder to communicate and work on this project together! It is also the service that allows us to be able to represent
+GitHub - We used GitHub in order to communicate and work on this project together! It is also the service that allows us to be able to represent
 this map on a GitHub website.
 
 Mapbox Gl JS - We used MapBox GL JS to initialize, customize, and create interactive functions for the map. 
