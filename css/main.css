@@ -6,8 +6,7 @@
 }
 
 /* CSS styles for heading and paragraphs */
-h2,
-h3 {
+h2, h3 {
    margin: 10px;
    font-size: 20px;
 }
@@ -29,23 +28,6 @@ p {
    height: calc(100vh - 60px);
    display: flex;
    flex-direction: row;
-}
-
-#description-popup,
-#acknowledge-popup {
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   padding: 10px;
-   z-index: 10;
-   width: 600px;
-   height: 95%;
-   overflow-y: auto;
-   background-color: rgba(228, 228, 228, 0.7);
-   display: none;
-   border-radius: 10px;
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 #map-container {
@@ -101,15 +83,6 @@ p {
    z-index: 2;
 }
 
-#openbtn {
-   position: absolute;
-   top: 10px;
-   right: 20px;
-   display: block;
-   font-size: 20px;
-   z-index: 2;
-}
-
 #side-container {
    background: rgb(255, 255, 255);
    border-style: solid;
@@ -123,15 +96,6 @@ p {
    display: relative;
    padding: 10px;
    z-index: 2;
-}
-
-#closebtn {
-   top: 10px;
-   right: 20px;
-   position: absolute;
-   display: relative;
-   font-size: 20px;
-   cursor: pointer;
 }
 
 #features {
@@ -151,10 +115,6 @@ p {
    border-radius: 3px;
    width: 100%;
    height: max-content;
-}
-
-.center {
-   margin: auto;
 }
 
 #line-chart {
@@ -181,8 +141,7 @@ table {
    border: 1px solid #ddd;
 }
 
-th,
-td {
+th, td {
    font-size: 13px;
    text-align: left;
    align-items: stretch;
@@ -231,42 +190,8 @@ i:hover {
    padding: 10px;
 }
 
-
 .nav__content {
    display: flex;
    justify-content: space-between;
    align-items: center;
-}
-
-.logo {
-   font-size: 24px; /* Increase the font size of the logo */
-   font-weight: bold; /* Make the logo bold */
-   color: #fff; /* Set the text color to white */
-   text-decoration: none;
-}
-
-.nav__list {
-   list-style-type: none;
-   display: flex;
-}
-
-.nav__item {
-   margin-right: 20px;
-}
-
-.nav-link {
-   font-size: 18px; /* Increase the font size of the nav links */
-   font-weight: bold; /* Make the nav links bold */
-   color: #fff; /* Set the text color to white */
-   text-decoration: none;
-}
-
-/* Style the active link */
-.nav-link.active {
-   border-bottom: 2px solid #fff; /* Add a white underline to the active link */
-}
-
-/* Adjust the navbar-toggler icon color */
-.navbar-toggler-icon {
-   color: #fff;
 }

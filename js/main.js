@@ -20,6 +20,7 @@ async function state_cause(){
 state_cause()
 
 function showLineChart(stateName) {
+    // Data Preparation
     let xData = [];
     let yData_A = [];
     let yData_B = [];
@@ -27,22 +28,24 @@ function showLineChart(stateName) {
     let yData_D = [];
     let i = 0;
 
-
-    for(let key in cause_data[stateName]){
+    for (let key in cause_data[stateName]) {
         xData[i] = cause_data[stateName][key]['YEAR'];
         yData_A[i] = cause_data[stateName][key]['TOTAL_DEATHS'];
         yData_B[i] = cause_data[stateName][key]['TOTAL_CANCER'];
         yData_C[i] = cause_data[stateName][key]['TOTAL_HEART'];
         yData_D[i] = cause_data[stateName][key]['TOTAL_STROKE'];
         i++;
-      }
+    }
 
+    // Chart Configuration
     const ctx = document.getElementById('line-chart').getContext('2d');
+
+    // Check if a chart instance exists and destroy it
     if (window.myLineChart) {
-        // Destroy the existing chart
         window.myLineChart.destroy();
     }
 
+    // Create a new line chart
     window.myLineChart = new Chart(ctx, {
         type: 'line',
         data: {
@@ -51,29 +54,29 @@ function showLineChart(stateName) {
                 {
                     label: 'Total Deaths',
                     data: yData_A,
-                    borderColor: 'rgba(207, 8, 8, 0.7)',
-                    backgroundColor: 'rgba(207, 8, 8, 0.5)',
+                    borderColor: 'rgba(207, 8, 8, 1)',
+                    backgroundColor: 'rgba(207, 8, 8, 0.2)',
                     borderWidth: 1.5,
                 },
                 {
                     label: 'Total Cancer',
                     data: yData_B,
                     borderColor: 'rgba(8, 207, 135, 1)',
-                    backgroundColor: 'rgba(8, 207, 135, 0.5)',
+                    backgroundColor: 'rgba(8, 207, 135, 0.2)',
                     borderWidth: 1.5,
                 },
                 {
                     label: 'Total Heart',
                     data: yData_C,
                     borderColor: 'rgba(238, 146, 0, 1)',
-                    backgroundColor: 'rgba(238, 146, 0, 0.5)',
+                    backgroundColor: 'rgba(238, 146, 0, 0.2)',
                     borderWidth: 1.5,
                 },
                 {
                     label: 'Total Stroke',
                     data: yData_D,
-                    borderColor: 'rgba(50, 128, 255, 1)', 
-                    backgroundColor: 'rgba(50, 128, 255, 0.5)', 
+                    borderColor: 'rgba(50, 128, 255, 1)',
+                    backgroundColor: 'rgba(50, 128, 255, 0.2)',
                     borderWidth: 1.5,
                 },
             ],
@@ -102,7 +105,7 @@ function showLineChart(stateName) {
             plugins: {
                 title: {
                     display: true,
-                    text: stateName + ' Year',
+                    text: stateName,
                     font: {
                         size: 18,
                     },
@@ -131,12 +134,10 @@ async function obese_data() {
                 'step',
                 ['get', 'Obesity'],
                 '#C1FFC1', // Lightest Green
-                10, '#98FB98',
-                20, '#8FBC8F', // Darker Green than 24
-                24, '#6B8E23', // Darker Green than 20
+                24, '#3CB371', // Darker Green than 20
                 28, '#4CAF50', // Darker Green than 32
-                32, '#3CB371',
-                36, '#2E8B57',  // Darkest Green
+                32, '#2E8B57',
+                36, '#6B8E23',  // Darkest Green
                 40, '#2E8B57'   // Darkest Green
             ],
             'fill-opacity': 0.8
@@ -144,22 +145,18 @@ async function obese_data() {
     });
 
     const layers = [
-        '<10',
-        '20',
-        '24',
-        '28',
-        '32',
-        '36',
-        '40+'
+        '20-24',
+        '24-28',
+        '28-32',
+        '32-36',
+        '36-40+'
     ];
     const colors = [
-        '#C1FFC198',
-        '#98FB9898',
-        '#8FBC8F70', // Darker Green than 24
-        '#6B8E2370', // Darker Green than 20
-        '#4CAF5070', // Darker Green than 32
-        '#3CB37198',
-        '#2E8B5798'
+        '#C1FFC1', // Darker Green than 24'#4CAF50'
+        '#3CB371', // Darker Green than 20'#3CB371'
+        '#4CAF50', // Darker Green than 32
+        '#2E8B57',
+        '#6B8E23'
     ];
 
     const legend = document.getElementById('legend');
@@ -313,47 +310,3 @@ async function obese_data() {
 }
 
 obese_data();
-
-function openNav() {
-    document.getElementById("side-container").style.display = "block";
-    document.getElementById("openbtn").style.display = "none";
-}
-
-function closeNav() {
-    document.getElementById("side-container").style.display = "none";
-    document.getElementById("openbtn").style.display = "block";
-}
-
-function openPopup(n) {
-    if (n == 1) {
-        if (document.getElementById("description-popup").style.display == "block") {
-            closePopup(1);
-        } else {
-        closePopup(2);
-        document.getElementById("description-popup").style.display = "block";
-        }
-    }
-    else if (n==2) {
-        if (document.getElementById("acknowledge-popup").style.display == "block") {
-            closePopup(2);
-        } else {
-            closePopup(1);
-            document.getElementById("acknowledge-popup").style.display = "block";
-        }
-    }
-}
-
-function closePopup(n) {
-    if (n==1) {
-        document.getElementById("description-popup").style.display = "none";
-    }
-    else if (n==2) {
-        document.getElementById("acknowledge-popup").style.display = "none";
-    }
-}
-
-
-
-
-
-
