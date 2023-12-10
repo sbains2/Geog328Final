@@ -51,15 +51,18 @@ p {
    margin-bottom: 30px;
    border-radius: 3px;
 }
-
+/* CSS styles for the map overlay/legend */
 #legend {
    position: fixed;
    bottom: 10px;
    left: 20px;
    display: flex;
-   border-radius: 10px;
+   flex-direction: column; /* Change to column for a vertical layout */
+   border-radius: 1px;
    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
    background-color: #ffffff; /* Set the background color to white */
+   margin: 5px;
+   padding: 14px;
 }
 
 .legend-key {
@@ -67,7 +70,7 @@ p {
    display: flex;
    align-items: center;
    margin: 5px;
-   width: 100px; /* Increased width for better fit, adjust as needed */
+   width: 100%; /* Adjusted width for better spacing */
    height: 30px; /* Adjust height as needed */
    border-radius: 5px; /* Optional: for rounded corners */
 }
@@ -172,6 +175,9 @@ i:hover {
 .nav__bar {
    background-color: #006500; /* Set the background color to green */
    padding: 10px;
+   font-weight: bold; /* Set the font weight to bold */
+   font-size: 18px; /* Set the font size to be larger */
+   font-family: 'Serif', sans-serif; /* Use a more serious font */
 }
 
 .nav__content {
