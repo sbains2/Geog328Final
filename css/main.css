@@ -168,22 +168,6 @@ i:hover {
    pointer-events: none;
 }
 
-/* Additional styles for the tooltip */
-@media screen and (max-width: 1200px) {
-   #side-container {
-       display: none;
-   }
-
-   #legend {
-       flex-direction: column;
-   }
-}
-
-.mapboxgl-canvas-container.mapboxgl-interactive,
-.mapboxgl-ctrl-group button.mapboxgl-ctrl-compass {
-   cursor: unset;
-}
-
 /* CSS styles for the navbar */
 .nav__bar {
    background-color: #006500; /* Set the background color to green */
