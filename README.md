@@ -1,5 +1,3 @@
-# Geog328Final
-
 ## Project Title:
 Exploring the Relationship between Obesity and Leading Causes of Death in the United States
 
