@@ -173,8 +173,9 @@ i:hover {
 
 /* CSS styles for the navbar */
 .nav__bar {
+   display: fixed;
    background-color: #267b53; /* Set the background color to green */
-   padding: 50px;
+   padding: 20px;
    font-weight: bold; /* Set the font weight to bold */
    font-size: 18px; /* Set the font size to be larger */
    font-family: 'Serif', sans-serif; /* Use a more serious font */
