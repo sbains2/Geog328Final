@@ -62,6 +62,8 @@ this map on a GitHub website.
 
 Mapbox Gl JS - We used MapBox GL JS to initialize, customize, and create interactive functions for the map. 
 
+Chart JS - We used ChartJS function inorder to create the line-chart
+
 
 ## Acknowledgment:
 
