@@ -189,7 +189,7 @@ async function obese_data() {
         const obesityRate = e.features[0].properties.Obesity;
 
         const tooltip = document.getElementById('tooltip');
-        tooltip.innerHTML = `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`;
+        tooltip.innerHTML = `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> % overall proportion</em></p>`;
         tooltip.style.visibility = 'visible';
         tooltip.style.left = `${e.point.x}px`;
         tooltip.style.top = `${e.point.y}px`;
@@ -205,7 +205,7 @@ async function obese_data() {
         const obesityRate = e.features[0].properties.Obesity;
 
         document.getElementById('text-description').innerHTML =
-            `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> overall proportion</em></p>`;
+            `<h3>${stateName}</h3><p><strong><em>${obesityRate}</strong> % overall proportion</em></p>`;
     });
 
     map.on('mouseleave', 'state_data_layer', () => {
