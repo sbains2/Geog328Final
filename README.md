@@ -27,7 +27,13 @@ The application URL : https://sbains2.github.io/Geog328Final/index.html
 
 ## Main functions:
 
-The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
+The JavaScript code organizes the main functions of the project, which focuses on creating the interactive map that brings attention to the relationship between the obesity proportions and prevalent medical diseases across US states. The script utilizes the Mapbox API to generate the map, then fetches and processes the data from the causes of death and obesity proportion geojson and json files.
+
+The state_cause function implements the data retrieval for the display of the line chart, which showcases the different death trends from the diseases over the 7-year period.
+
+The obese_data function involves the integration of the obesity data, which visualizes, as well as sorts the information on the map with the choropleth green values. We wanted to increase the interactivity of this data through tooltips, which convey the obesity proportions when hovering over a particular state. When clicked, the corresponding data for the diseases also pop up on the line chart.
+
+In essence, these are a few of the main functions that optimizes responsive design, data visualization, as well as user-friendly design in order to allow for a seamless exploration of the diseases and obesity proportion relationship in the United States.
 
 
 ## Data sources: 
