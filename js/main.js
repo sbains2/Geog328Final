@@ -120,6 +120,12 @@ async function obese_data() {
     let respond = await fetch("assets/National_Obesity_By_State.geojson");
     let state_data = await respond.json();
 
+    state_data.features.sort((a, b) => {
+        const obesityRateA = b.properties.Obesity;
+        const obesityRateB = a.properties.Obesity;
+        return obesityRateB - obesityRateA;
+    });
+
     map.addSource('state_data', {
         type: 'geojson',
         data: state_data,
@@ -133,14 +139,14 @@ async function obese_data() {
             'fill-color': [
                 'step',
                 ['get', 'Obesity'],
-                '#C1FFC1', // Lightest Green
-                24, '#3CB371', // Darker Green than 20
-                28, '#4CAF50', // Darker Green than 32
-                32, '#2E8B57',
-                36, '#6B8E23',  // Darkest Green
-                40, '#2E8B57'   // Darkest Green
+                '#a1debf', // Lightest Green
+                24, '#50C899', // Darker Green than 20
+                28, '#34BE60', // Darker Green than 32
+                32, '#0AA159',
+                36, '#0B6A3D',  // Darkest Green
+                40, '#0B6A3D'   // Darkest Green
             ],
-            'fill-opacity': 0.8
+            'fill-opacity': 0.78
         }
     });
 
@@ -152,11 +158,11 @@ async function obese_data() {
         '36-40+'
     ];
     const colors = [
-        '#C1FFC1', // Darker Green than 24'#4CAF50'
-        '#3CB371', // Darker Green than 20'#3CB371'
-        '#4CAF50', // Darker Green than 32
-        '#2E8B57',
-        '#6B8E23'
+        '#a1debf99', // Darker Green than 24'#4CAF50'
+        '#50C99999', // Darker Green than 20'#3CB371'
+        '#59c87b', // Darker Green than 32
+        '#2cae6b',
+        '#1B8A60'
     ];
 
     const legend = document.getElementById('legend');
@@ -338,8 +344,6 @@ function closePopup(n) {
         document.getElementById("acknowledge-popup").style.display = "none";
     }
 }
-
-
 
 
 
