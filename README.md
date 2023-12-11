@@ -25,10 +25,22 @@ The application URL: https://sbains2.github.io/Geog328Final/index.html
 
 
 
-Main functions: The project involves the comprehensive collection of data from multiple sources, including the U.S. Census Bureau. We acquire detailed information related to health insurance coverage and median income across different states. The data is collected, processed, and integrated into a unified dataset. The core of our project is the creation of an interactive map. We leverage web development technologies and libraries to design and build an intuitive and user-friendly map interface which the states can be selected to show the obsity cases and the numbers for each types of diseases. 
+## Main Function: 
 
+Interactive Map:
 
-Data sources: 
+As you hover over different states on the map, a black box appears, showing the overall prevalence of obesity in that state.
+
+obese_data() -> Reads in the National_Obesity_By_State.geojson file while using Mapbox GL JS functions inorder to produce an interactive map including
+the legend, being able to hover over each state, and also creating the list of states and organizing them. 
+
+Line Chart:
+When you click on a state, for example, Washington, a line chart opens up on the right side of your screen. It displays four different variables: the leading causes of death (Cancer, Stroke, Heart, and total Deaths) from 2010 to 2017.
+
+showLineChart() -> Reads in the causes_of_death.json folder, and represents a line-chart with all the given variables in the JSON file. This code produces a Chart.js 
+chart that takes in the variables of: Year, Death by Heart Disease, Death by Cancer, Death by Stroke, and Total Deaths
+
+## Data sources: 
 Characteristic Of Health Insurance:[Health Insurance Coverage in U.S](https://data.census.gov/table/ACSST1Y2022.S2701?q=health%20insurance)
 
 This data set has the characteristics of National Obesity Percentages categorized by State. This source is a JSON file -- which allows us to be able to visualize 
