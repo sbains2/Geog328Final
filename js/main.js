@@ -252,7 +252,7 @@ async function obese_data() {
         if (state.length) {
             // If a state is clicked, show information for that state
             document.getElementById('text-description').innerHTML = `<h3>${state[0].properties.NAME}</h3>`;
-            document.getElementById('text-description').innerHTML += `<p><strong><em>${state[0].properties.Obesity}</em></strong></p>`;
+            document.getElementById('text-description').innerHTML += `<p><strong><em>${state[0].properties.Obesity} % overall proportion</em></strong></p>`;
             showLineChart(state[0].properties.NAME);
     
             if (polygonID) {
@@ -306,45 +306,3 @@ async function obese_data() {
 }
 
 obese_data();
-
-function openNav() {
-    document.getElementById("side-container").style.display = "block";
-    document.getElementById("openbtn").style.display = "none";
-}
-
-function closeNav() {
-    document.getElementById("side-container").style.display = "none";
-    document.getElementById("openbtn").style.display = "block";
-}
-
-function openPopup(n) {
-    if (n == 1) {
-        if (document.getElementById("description-popup").style.display == "block") {
-            closePopup(1);
-        } else {
-        closePopup(2);
-        document.getElementById("description-popup").style.display = "block";
-        }
-    }
-    else if (n==2) {
-        if (document.getElementById("acknowledge-popup").style.display == "block") {
-            closePopup(2);
-        } else {
-            closePopup(1);
-            document.getElementById("acknowledge-popup").style.display = "block";
-        }
-    }
-}
-
-function closePopup(n) {
-    if (n==1) {
-        document.getElementById("description-popup").style.display = "none";
-    }
-    else if (n==2) {
-        document.getElementById("acknowledge-popup").style.display = "none";
-    }
-}
-
-
-
-
