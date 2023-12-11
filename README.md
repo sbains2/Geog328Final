@@ -31,16 +31,15 @@ We performed data cleaning to find detailed information related to the relations
 
 The overall main functions include an Interactive Map, a Line Chart, and a list of States (arranged from low to high prevalence).
 
-## Interactive Map: As you hover over different states on the map, a black box appears, showing the overall prevalence of obesity in that state.
+#### Interactive Map: As you hover over different states on the map, a black box appears, showing the overall prevalence of obesity in that state.
 
-### obese_data() -> Reads in the National_Obesity_By_State.geojson file while using Mapbox GL JS functions inorder to produce an interactive map including
-### the legend, being able to hover over each state, and also creating the list of states and organizing them. 
+##### obese_data() -> Reads in the National_Obesity_By_State.geojson file while using Mapbox GL JS functions inorder to produce an interactive map including
+##### the legend, being able to hover over each state, and also creating the list of states and organizing them. 
 
-## Line Chart: When you click on a state, for example, Washington, a line chart opens up on the right side of your screen. It displays four different variables: the leading causes of death (Cancer, Stroke, Heart, and total Deaths) from 2010 to 2017.
+#### Line Chart: When you click on a state, for example, Washington, a line chart opens up on the right side of your screen. It displays four different variables: the leading causes of death (Cancer, Stroke, Heart, and total Deaths) from 2010 to 2017.
 
-### showLineChart() -> Reads in the causes_of_death.json folder and represents a line-chart with all the given variables in the JSON file. This code produces a Chart.js 
-### chart that takes in the variables of Year, Death by Heart Disease, Death by Cancer, Death by Stroke, and Total Deaths
-
+##### showLineChart() -> Reads in the causes_of_death.json folder, and represents a line-chart with all the given variables in the JSON file. This code produces a Chart.js 
+##### chart that takes in the variables of: Year, Death by Heart Disease, Death by Cancer, Death by Stroke, and Total Deaths
 
 
 ## Data sources: 
