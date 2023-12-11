@@ -1,7 +1,5 @@
-# Geog328Final
-
-Project Title:
-Exploring the Relationship between Obesity cases and medical diseases in the United States
+## Project Title:
+Exploring the Relationship between Obesity and Leading Causes of Death in the United States
 
 ## Project Description:
 Overall, this project aims to uncover the relationship between the overall obesity proportions as well as prevalent medical diseases in the United States throughout 7 years, in addition to the obesity data from 2015. Our focus is on the development of an interactive map that integrates HTML, CSS, and JS to show the relationship across all states. Our prioritization is to give a user-friendly interface so the relationship is more easily interpreted. 
@@ -14,7 +12,7 @@ About the HTML, we prioritized the optimal layout that would allow users to use 
 
 ## Project Goal:
 
-One goal that we prioritized is the temporal analyses spanning over 7 years throughout 2010-2017, in addition to obesity data from the year 2015. The perspective of the temporal analysis allows us to take a closer look at the distinctive patterns with regard to the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
+One goal that we prioritized is the temporal analyses spanning over 7 years throughout 2010-2017, in addition to obesity data from the year 2015. The perspective of the temporal analysis allows us to take a closer look at the distinctive patterns about the relationship between obesity and these underlying medical diseases in a more holistic view of health dynamics. 
 
 Another prioritizing goal that led our project was creating a user-friendly design that highlights an intuitive and accessible design so that users are given the freedom to navigate seamlessly throughout the site. By ensuring these factors in our design, we hope to attract and empower a broader audience, which includes government officials, insurance providers, and policymakers to easily perceive the relationship between obesity proportion statistics and underlying medical diseases. 
 
@@ -25,23 +23,30 @@ The application URL: https://sbains2.github.io/Geog328Final/index.html
 
 
 
-## Main Function: 
+## Main functions:
+
+The project involves the comprehensive collection of data from two sources: Obesity Prevalence (throughout our nation) and Leading Causes of Death by State (2010-2017).
+
+We performed data cleaning to find detailed information related to the relationship between Obesity and Leading Causes of Death. The core of our project is the creation of an interactive map. We leverage GitHub technologies and Mapbox GL JS to design and build an intuitive and user-friendly map interface where states can be selected to show obesity and relevant causes of death.
+
+The overall main functions include an Interactive Map, a Line Chart, and a list of States (arranged from low to high prevalence).
 
 Interactive Map:
 
 As you hover over different states on the map, a black box appears, showing the overall prevalence of obesity in that state.
 
-obese_data() -> Reads in the National_Obesity_By_State.geojson file while using Mapbox GL JS functions inorder to produce an interactive map including
+obese_data() -> Reads in the National_Obesity_By_State.geojson file while using Mapbox GL JS functions in order to produce an interactive map including
 the legend, being able to hover over each state, and also creating the list of states and organizing them. 
 
 Line Chart:
 When you click on a state, for example, Washington, a line chart opens up on the right side of your screen. It displays four different variables: the leading causes of death (Cancer, Stroke, Heart, and total Deaths) from 2010 to 2017.
 
 showLineChart() -> Reads in the causes_of_death.json folder, and represents a line-chart with all the given variables in the JSON file. This code produces a Chart.js 
-chart that takes in the variables of: Year, Death by Heart Disease, Death by Cancer, Death by Stroke, and Total Deaths
+chart that takes in the variables of Year, Death by Heart Disease, Death by Cancer, Death by Stroke, and Total Deaths
+
 
 ## Data sources: 
-Characteristic Of Health Insurance:[Health Insurance Coverage in U.S](https://data.census.gov/table/ACSST1Y2022.S2701?q=health%20insurance)
+Source 1: Data for the National Obesity Percentages (by State) [National Obesity Percentages](https://catalog.data.gov/dataset/national-obesity-by-state-d765a)
 
 This data set has the characteristics of National Obesity Percentages categorized by State. This source is a JSON file -- which allows us to be able to visualize 
 the dataset onto a map, so that we're able to present the different percentages of obesity by State. 
@@ -63,7 +68,7 @@ this map on a GitHub website.
 
 Mapbox Gl JS - We used MapBox GL JS to initialize, customize, and create interactive functions for the map. 
 
-Chart JS - We used ChartJS function inorder to create the line-chart
+Chart JS - We used ChartJS function in order to create the line-chart
 
 
 ## Acknowledgment:
